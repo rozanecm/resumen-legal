@@ -1,0 +1,84 @@
+# Ejercicio profesional de la ingeniería
+- **Requerimientos**: para ser ingeniero hay que tener el título, para ejercer hay que tener matrícula.
+- **Ejercicio profesional** cuando:
+  - Se ejecuta una obra o se presta un servicio
+  - Se realizan
+    - Estudios
+    - proyectos
+    - direcciones
+    - pericias
+    - tasaciones
+    - laudos
+    - ensayos
+    - análisis
+    - certificaciones
+    - inventarios técnicos
+    - consultas
+    - asesoramientos
+    - dictámenes
+- **Incumbencias:** Las funciones para las cuales capacita el título
+  - Antes las definía la universidad (debido a la autonomía universitaria)
+  - Ahora el Estado/la CONEAU define las incumbencias.
+- **Matriculación:** La matricula la emite el colegio. Hay colegios de cada ingeniería.
+  - En Argentina: COPITEC (Consejo Profesional de Ingeniería en Counicaciones, Electrónica y Computación)
+  - Matrícula: Abala que sos bueno y responsable y no te mandaste ninguna macana (no te la sacaron)
+
+## Ley de Ejercício profesional (Ing, Arq, agrimensores)
+- Para ejercer la ing. hay que tener título y matrícula
+- Debe haber **consejos nacionales** que determinen y apliquen transgresiones y emitan matrículas. Sus funciones son:
+  - Organizar y administrar matrículas
+  - Aplicar sanciones
+  - Estudiar el alcance de los títulos
+  - Denunciar y estar en juicio
+  - Dictámenes sobre ejercício profesional
+- Debe haber una **Junta central de los Consejos Profesionales**:
+  - 1 sola en todo el país
+  - Nuclea los consejos
+  - Funciones
+    - Actúa como tribunal de ética profesional 
+    - Propone un código de ética profesional
+    - Actúa como tribunal en los recursos de apelación sobre sanciones
+    - denunciar, querellar y estar en juicio en asuntos que involucren a más de un consejo
+    - Actúa como árbitro entre consejos
+    - Crea normas generales que aplican los consejos.
+    - Coordina proyectos sobre alcance de los títulos
+- **Transgresiones:**
+  - Realizar actividades propias de la profesión de Ingeniero sin poseer título habilitante. (15 días a 1 año de prisión)
+  - Arrogarse el título de Ingeniero sin corresponderle (delito reprimido con multa)
+  - La firma de documentos que signifique ejercicio de la profesión de Ingeniero, sin que el trabajo haya sido ejecutado por el profesional constituirá falta grave
+  - El ejercicio de la profesión de Ingeniero sin estar matriculado o con la matrícula suspendida, constituirá falta grave.
+- **Sanciones:**
+  - Advertencia
+  - Amonestación
+  - Censura pública
+  - Multa
+  - Suspensión del ejercicio de la profesión
+  - Cancelación de la matrícula
+- **Recurrencia**: Especifica ante qué organismos presentarlas según la falta (Junta Nacional o Cámara Nacional de Apelaciones)
+  - Recurso de reposición: ante el mismo organismo que dictó la resolución.
+  - Recurso de apelación: organismo superior al que dictó la resolución
+- **Ley de honorarios:**
+  - Retribución por:
+    - Trabajo 
+    - **Responsabilidad**
+  - Define aranceles de honorarios, establece un mínimo que debe cobrar el profesional por el trabajo. Divide en proyecto y dirección de obra, y establece porcentaje de trabajo y  mínimos (2 personas que hace 50% cobran más que una que hace el 100%).
+  - No está vigente sino que se usa como referencia en arquitectura.
+  - Funciones del Profesional
+    - Proyectista
+    - Director de obra
+    - Representante técnico
+      - Perito técnico
+      - Árbitro
+    - Asistente técnico / Asesor / Consultor
+- **Código de ética:** Conjunto de mejores criterios y conceptos que debe guiar la conducta de un sujeto por la razón de *los más elevados fines de su profesión*.
+  - Deberes que impone:
+    - *Para con la dignidad de la profesión:* No actuar de forma incorrecta (en contra de la buena técnica) por más que nos pidan.
+    - *Para con los demás profesionales:* No designar ni influir que sean designados en cargos técnicos que requieran título quienes no lo posean.
+    - *Para con los clientes:* Advertir sobre los errores de distintos aspectos del proyecto y de la responsabilidad por daños y perjuicios indicados en la ley.
+    - *Para con su actuación en contratos:* Si dirige el cumplimiento de contratos entre su cliente y terceros, no puede actuar con parcialidad en perjuicio de esos terceros.
+  - Las causas de ética se radicarán ante el Consejo Profesional correspondiente o la Junta si está inscripto en más de uno, tiene como consecuencia alguna sanción que puede aplicar un Consejo.
+
+- Título​ acredita:
+  - **Perfil:** conjunto de conocimientos y capacidades que el título
+  - **Alcance:** actividades para las que es competente el profesional.
+  - **Incumbencias:** actividades comprendidas en el alcance de interés público.
