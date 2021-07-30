@@ -57,7 +57,7 @@ Desde el punto de vista ​**FORMAL**:
 
 Las leyes no son retroactivas a menos que indiquen lo contrario.
 
-La ignorancia de las leyes no sirve de excusa para su cumplimiento.
+La ignorancia de las leyes no sirve de excusa para su incumplimiento.
 
 ### Doctrina
 Es el conjunto de documentos/"papers" elaborador por jurisconsultos/"investigadores", eminencias del derecho que analizan una ley e indican cómo usarla.
