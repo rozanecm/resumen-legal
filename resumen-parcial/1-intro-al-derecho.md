@@ -29,8 +29,8 @@ Normas que regulan la conducta humana y que resultan necesarias para la conviven
 10. Contratos entre particulares
 
 ## Limitaciones
-- princípio de Irretroactividad (en el tiempo)
-- princípio de Territorialidad (en el espacio) (vale para todas las personas en Argentina sin importar su origen ni nada)
+- princípio de Irretroactividad (en el tiempo): La irretroactividad es el fenómeno que produce que las normas no tengan efectos hacia atrás en el tiempo. De esta manera se asegura que dichos efectos comiencen en el momento de su entrada en vigor, con la finalidad de dotar al ordenamiento jurídico de seguridad.
+- princípio de Territorialidad (en el espacio) (vale para todas las personas en Argentina sin importar su origen ni nada): según este principio la ley penal se aplica exclusivamente a los hechos cometidos dentro de los límites del territorio del Estado que la sanciona, con prescindencia de la nacionalidad del autor del delito (nacional o extranjero) y de su condición de domiciliado o transeúnte, prescindiendo también de las pretensiones punitivas de otros Estados.
 
 ## Fuentes del derecho
 - Ley
