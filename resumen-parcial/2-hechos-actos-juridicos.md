@@ -1,27 +1,27 @@
 # Sujetos, Objetos, Hechos y Actos Jurídicos
 
 ## Sujeto del derecho
-- Persona: Todos los entes susceptibles de adquirir derechos y contraer obligaciones.
-- Persona humana: De características físicas, visible, de existencia real.
-- Persona jurídica: De características posible, no visible, de existencia ideal.
+- **_Persona:_** Todos los entes susceptibles de adquirir derechos y contraer obligaciones.
+- **_Persona humana:_** De características físicas, visible, de existencia real.
+- **_Persona jurídica:_** De características posible, no visible, de existencia ideal.
 
 ### Atributos de una persona humana
 - **Nombre**
 - **Domicílio**
-  - Real: donde vive o desempeña su actividad
-  - Legal: donde vive a los efectos de la ley
-  - Especial: elegido para cierto contrato (para que lleguen notificaciones al estudio por ejemplo)
+  - **_Real:_** donde vive o desempeña su actividad
+  - **_Legal:_** donde vive a los efectos de la ley
+  - **_Especial:_** elegido para cierto contrato (para que lleguen notificaciones al estudio por ejemplo)
 - **Estado (civil)**
 - **Capacidad**
-  - Capacidad de ejercício: Puede ejercer derechos y obligaciones por si mismo
+  - **_Capacidad de ejercício:_** Puede ejercer derechos y obligaciones por si mismo
     - No natos
     - Menores de edad
     - Declarados incapaces por sentencia judicial.
-  - Capacidad de derecho: Si es apto para ser titular de derechos y deberes jurídicos (limitable por la ley).
+  - **_Capacidad de derecho:_** Si es apto para ser titular de derechos y deberes jurídicos (limitable por la ley).
 
 ### Persona jurídica
-- Pública: Estado/organismos/otros Estados/Iglesia Católica
-- Privada: sociedades/asociaciones civiles/fundaciones/iglesias o religiones/cooperativas...
+- **_Pública:_** Estado/organismos/otros Estados/Iglesia Católica
+- **_Privada:_** sociedades/asociaciones civiles/fundaciones/iglesias o religiones/cooperativas...
 
 Los intereses de los administradores y la persona jurídica deben estar alineados.
 
@@ -73,34 +73,34 @@ Los hechos pueden ser:
   - Involuntarios: sin discernimiento, intención o libertad
   - Voluntario: Con discernimiento, intención y libertad
     - Ilícito: prohibido por la ley
-    - Lícito: no prohibido por la ley
-      - (Simple acto lícito): sin intención de ser jurídico
+    - [Lícito](#actos-licitos): no prohibido por la ley
+      - (Simple acto lícito): sin intención de ser jurídico. Por ejemplo, quien escribe una canción por placer no piensa, mientras lo hace, que el ordenamiento legal protege su creación intelectual y le asigna la paternidad de la obra. Los simples hechos lícitos se refieren a los actos voluntarios que no son contrarios al ordenamiento jurídico y que tampoco tienen por fin inmediato la producción de efectos sobre las situaciones y relaciones jurídicas. Esta última es la diferencia esencial entre simple acto lícito y el acto jurídico. En relación a estos últimos, las personas tienen por fin inmediato producir efectos en el mundo del derecho, mientras que en los simples actos lícitos es el derecho el que deriva los efectos del acto con prescindencia de la voluntad o del querer del sujeto, es decir, no se producen ex voluntate, sino ex lege. Los simples actos lícitos no eran específicamente tratados en el CC, pero la doctrina los consideraba como una categoría independiente. Se trata de una elaboración doctrinaria que los admitía en función del principio según el cual todo lo que no está prohibido se encuentra permitido (art. 19 CN). Se encuentran comprendidas aquí una serie de con- ductas que pueden ser o no intrascendentes para el derecho, pero que pueden derivar en la concreción de efectos jurídicos por prescripción legal. Así, por ejemplo, el derecho de pensar, caminar libremente, ejercer alguna facultad; también cabe incluir la apropia- ción de las cosas abandonadas (art. 1947, inc. a.i); la percepción de los frutos (art. 1928). Estos actos, aunque en sí mismos no sean jurídicamente significativos, pueden serlo si, por ejemplo, su ejercicio le es impedido al titular, de manera que provocan la reacción del ordenamiento jurídico, el cual podrá restablecer el derecho vulnerado y sancionar —si fuere el caso— al responsable.
       - **Acto jurídico:  El acto jurídico es el acto voluntario lícito que tiene por fin inmediato la adquisición, modificación o extinción de relaciones o situaciones jurídicas.**
 
 ### Voluntad
 Un hecho jurídico humano es voluntario si tiene:
-- Discernimiento: Es la facultad de distinguir lo bueno de lo malo.
-- Intención: Se tiene el propósito de realizar un acto.
-- Libertad: Ha habido ausencia de toda coacción física o moral.
+- **_Discernimiento:_** Es la facultad de distinguir lo bueno de lo malo.
+- **_Intención:_** Se tiene el propósito de realizar un acto.
+- **_Libertad:_** Ha habido ausencia de toda coacción física o moral.
 
 Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecucion/tácita (obvia, no expresa)
 
 ### Acto jurídico
 - **Clasificación**:
-  - Positivos o negativos: si hace falta realizarlo u omitirlo para que se modificquen situaciones juridicas.
-  - Unilaterales o bilaterales: Si hace falta 1 o 2 personas para hacerlo.
-  - Actos entre vivos y de última voluntad: según si la eficacia depende del fallecimiento de aquellos cuya voluntad emanan.
+  - Positivos o negativos:_** si hace falta realizarlo u omitirlo para que se modificquen situaciones juridicas.
+  - Unilaterales o bilaterales:_** Si hace falta 1 o 2 personas para hacerlo.
+  - Actos entre vivos y de última voluntad:_** según si la eficacia depende del fallecimiento de aquellos cuya voluntad emanan.
 - **Elementos**:
-  - Sujeto: debe ser capaz y tener voluntad
-  - Objeto:  El objeto del acto jurídico no debe ser un hecho imposible o prohibido por la ley, contrario a la moral, a las buenas costumbres, al orden público o lesivo de los derechos ajenos o de la dignidad humana. Tampoco puede ser un bien que por un motivo especial se haya prohibido que lo sea. 
-  - Causa: fin inmediato determinante de la voluntad. Existe aunque no esté expresada.
+  - **_Sujeto:_** debe ser capaz y tener voluntad
+  - **_Objeto:_** El objeto del acto jurídico no debe ser un hecho imposible o prohibido por la ley, contrario a la moral, a las buenas costumbres, al orden público o lesivo de los derechos ajenos o de la dignidad humana. Tampoco puede ser un bien que por un motivo especial se haya prohibido que lo sea. 
+  - **_Causa:_** fin inmediato determinante de la voluntad. Existe aunque no esté expresada.
   - ​ Forma​ : la forma es un conjunto de prescripciones de la ley, respecto de las solemnidades que deben observarse al tiempo de la formación del acto jurídico, como la escritura del acto, la presencia de testigos, que el acto sea hecho por escribano público o por un oficial público, o con el concurso del juez del lugar.
     - a.​ ​ Formales: deben cumplir las formas mencionadas.
     - b.​ ​ No formales: si no se designa en en el CC una forma para el acto jurídico en cuestión, el mismo es no formal.
 - **Instrumento**: Son documentos que registran el otorgamiento de actos jurídicos.
   - **Instrumentos públicos**: requieren intervención de oficial público
   - **Instrumentos privados**: no lo requieren.
-  - Testamento: Un testamento ológrafo debe ser escrito todo entero, fechado y firmado por la mano misma del testador. Si falta alguna de las formalidades, es totalmente nulo.
+  - **_Testamento:_** Un testamento ológrafo debe ser escrito todo entero, fechado y firmado por la mano misma del testador. Si falta alguna de las formalidades, es totalmente nulo.
   - Bajo forma privada, un acto requiere la firma de las partes, sin reemplazo por signos, iniciales o nombres ni apellidos. Debe ir al pie del documento.
   -  Los actos que contengan convenciones perfectamente bilaterales deben ser redactados en tantos originales como partes haya con un interés distinto.
 
@@ -108,8 +108,8 @@ Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecuci
 Causan nulidad del acto
 
 - **Error**: falsa noción de una cosa
-  - De hecho: aplicar mal la norma
-  - De derecho: haber equivocado el concepto sobre la naturaleza jurídica de la norma.
+  - **_De hecho:_** aplicar mal la norma
+  - **_De derecho:_** haber equivocado el concepto sobre la naturaleza jurídica de la norma.
   - Causa nulidad cuando es de hecho, escencial y reconocible por el destinatario
 - **Dolo**: Intención de delinquir. Mentir (Aserción de lo falso o simulación de lo verdadero) u ocultar. Puede ser por acción u omisión. Causa nulidad cuando:
   - Es grave
@@ -119,20 +119,20 @@ Causan nulidad del acto
 - **Fuerza e intimidacion/Violencia**: Amenazas, violencia física o moral, causan nulidad según la relevancia.
 
 #### Vicios de los actos jurídicos
-- **Lesión**: Puede demandarse la nulidad o la modificación de los actos jurídicos cuando una de las partes explotando la necesidad, debilidad síquica o inexperiencia de la otra, obtuviera por medio de ellos una ventaja patrimonial evidentemente desproporcionada y sin justificación. 
-  - Se puede exigir nulidad o reajuste
+- **Lesión**: Puede demandarse la [nulidad](#nulidad) o la modificación de los actos jurídicos cuando una de las partes explotando la necesidad, debilidad síquica o inexperiencia de la otra, obtuviera por medio de ellos una ventaja patrimonial evidentemente desproporcionada y sin justificación. 
+  - Se puede exigir [nulidad](#nulidad) o reajuste
   - Sólo el lesionado o sus herederos pueden ejercer la acción
 - **Simulación**:  se encubre el carácter jurídico de un acto bajo la apariencia de otro.
-  - Ilícita: perjudica a un tercero
-  - Lícita: El acto simulado encubre otro real si no es ilícito ni perjudica a terceros.
-  - Absoluta (el acto jurídico no es totalmente real) vs Relativa (se da apariencia de otro acto jurídico)
+  - **_Ilícita:_** perjudica a un tercero
+  - **_Lícita:_** El acto simulado encubre otro real si no es ilícito ni perjudica a terceros.
+  - **_Absoluta_** (el acto jurídico no es totalmente real) vs Relativa (se da apariencia de otro acto jurídico)
 - **Fraude**: se establecen condiciones para que el acreedor pueda solicitar revocación:
   - Deudor insolvente
   - El acto del deudor es perjuicio para los acreedores
   - El crédito en virtud del cual se intenta accionar es de fecha anterior al acto del deudor
 
 #### Nulidad
-Es la sanción legal que priva de sus efectos normales a un acto jurídico. La nulidad puede ser absoluta si la misma se realiza de oficio, es una decisión judicial que no requiere confirmación alguna. En cambio si la nulidad no puede ser declarada de oficio por el juez y solo puede solicitarla el beneficiario, la nulidad es relativa.
+Es la sanción legal que priva de sus [efectos](#efecto) normales a un acto jurídico. La nulidad puede ser absoluta si la misma se realiza de oficio, es una decisión judicial que no requiere [confirmación](#confirmacion-del-acto-juridico) alguna. En cambio si la nulidad no puede ser declarada de oficio por el juez y solo puede solicitarla el beneficiario, la nulidad es relativa.
 
 ##### Efecto
 Se vuelven las cosas al estado en que se encontraban antes del acto anulado. Existe derecho por parte de los damnificados de reclamar indemnización por daños y perjuicios.
