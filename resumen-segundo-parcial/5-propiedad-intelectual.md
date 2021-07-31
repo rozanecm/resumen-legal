@@ -2,7 +2,7 @@
 
 ## Resumen gral
 
-![tabla gral](5-tabla-propiedad-intelectual.png)
+![tabla gral](res/5-tabla-propiedad-intelectual.png)
 
 - Decreto 165/94 => Modifica concepto de propiedad intelectual en cuanto a software 
 - Ley 25036 => modifica y amplía normativa de propiedad intelectual (Ley 11723)

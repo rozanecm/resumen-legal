@@ -65,7 +65,7 @@ Los administradores responden ilimitada y solidariamente frente a la persona jur
 
 > El hecho jurídico es el **acontecimiento** que, conforme al ordenamiento jurídico, **produce el nacimiento, modificación o extinción de relaciones o situaciones jurídicas**.
 
-![hechos](2-hechos.jpeg)
+![hechos](res/2-hechos.jpeg)
 
 Los hechos pueden ser:
 - Exteriores (los hace la naturaleza)

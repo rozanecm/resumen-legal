@@ -14,7 +14,7 @@ Normas que regulan la conducta humana y que resultan necesarias para la conviven
   - En la conciencia de los hombres
   - Su cumplimiento lo garantiza Dios
 
-![arbol](1-arbol.png)
+![arbol](res/1-arbol.png)
 
 ## Pirámide jurídica
 1. Constitución Nacional
