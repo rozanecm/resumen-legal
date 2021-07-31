@@ -43,6 +43,7 @@ El CCyC es una ley.
 
 Toda regla social obligatoria emanada de autoridad competente.
 
+Las leyes se pueden interpretar desde el punto de vista material o formal.<br>
 Desde el punto de vista ​**MATERIAL**:
 - Gramatical o Judicial: interpretación de acuerdo a la letra (lo que dice)
 - Exegética o Legal: interpretación de acuerdo al espíritu (por qué/para qué hicieron esa ley)
