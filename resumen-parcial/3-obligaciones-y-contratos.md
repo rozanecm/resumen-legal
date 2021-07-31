@@ -1,7 +1,7 @@
 # Obligaciones
 Vínculo jurídico en que _el **acreedor (o activo)** pude exigirle al **deudor (o pasivo)** una **prestación**_.
 
-![elementos](3-elementos.png)
+![elementos](res/3-elementos.png)
 
 ## Elementos
 - **Prestación/Objeto**: Lo que el **deudor** le da al **acreedor**.

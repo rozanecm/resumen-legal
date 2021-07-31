@@ -15,7 +15,7 @@ UIT: Unión internacional de telecomunicaciones
   - Seguridad
 
 ## Tendencias regulatorias
-![tendencias regulatorias](3-regulatorias.png)
+![tendencias regulatorias](res/3-regulatorias.png)
 - Ex-post (legislo luego de conflicto o tecnología)
   - Legislo con experiencia, sé qué legislo
   - No hay seguridad jurídica entonces ñas empresass no invierten 
@@ -50,7 +50,7 @@ Etapas:
 Objetivo último de la regulación: acrecentar el acceso a las TIC y proteger al consumidor (la competencia es un medio para esto)
 
 ![](3-evolucion.png
-![](3-evolucion-politicas.png)
+![](res/3-evolucion-politicas.png)
 
 Redes NGN: todo por el mismo cable (tv, voz, internet)
 

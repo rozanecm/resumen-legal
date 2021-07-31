@@ -14,7 +14,7 @@ Normas que regulan la conducta humana y que resultan necesarias para la conviven
   - En la conciencia de los hombres
   - Su cumplimiento lo garantiza Dios
 
-![arbol](1-arbol.png)
+![arbol](res/1-arbol.png)
 
 ## Pirámide jurídica
 1. Constitución Nacional
@@ -29,8 +29,8 @@ Normas que regulan la conducta humana y que resultan necesarias para la conviven
 10. Contratos entre particulares
 
 ## Limitaciones
-- princípio de Irretroactividad (en el tiempo)
-- princípio de Territorialidad (en el espacio) (vale para todas las personas en Argentina sin importar su origen ni nada)
+- princípio de Irretroactividad (en el tiempo): La irretroactividad es el fenómeno que produce que las normas no tengan efectos hacia atrás en el tiempo. De esta manera se asegura que dichos efectos comiencen en el momento de su entrada en vigor, con la finalidad de dotar al ordenamiento jurídico de seguridad.
+- princípio de Territorialidad (en el espacio) (vale para todas las personas en Argentina sin importar su origen ni nada): según este principio la ley penal se aplica exclusivamente a los hechos cometidos dentro de los límites del territorio del Estado que la sanciona, con prescindencia de la nacionalidad del autor del delito (nacional o extranjero) y de su condición de domiciliado o transeúnte, prescindiendo también de las pretensiones punitivas de otros Estados.
 
 ## Fuentes del derecho
 - Ley
@@ -43,6 +43,7 @@ El CCyC es una ley.
 
 Toda regla social obligatoria emanada de autoridad competente.
 
+Las leyes se pueden interpretar desde el punto de vista material o formal.<br>
 Desde el punto de vista ​**MATERIAL**:
 - **_Gramatical o Judicial:_** interpretación de acuerdo a la letra (lo que dice)
 - **_Exegética o Legal:_** interpretación de acuerdo al espíritu (por qué/para qué hicieron esa ley)
@@ -57,7 +58,7 @@ Desde el punto de vista ​**FORMAL**:
 
 Las leyes no son retroactivas a menos que indiquen lo contrario.
 
-La ignorancia de las leyes no sirve de excusa para su cumplimiento.
+La ignorancia de las leyes no sirve de excusa para su incumplimiento.
 
 ### Doctrina
 Es una fuente material del derecho. Es el conjunto de documentos/"papers" elaborador por jurisconsultos/"investigadores", eminencias del derecho que analizan una ley e indican cómo usarla. La doctrina jurídica surge principalmente de las universidades, que estudian el derecho vigente y lo interpretan dentro de la ciencia del derecho. No tiene fuerza obligatoria, y no se reconoce como fuente oficial del derecho en la mayoría de los sistemas jurídicos.
@@ -66,5 +67,4 @@ Por la vía de los hechos, sin embargo, constituye una fuerza de convicción par
 
 ### Jurisprudencia
 Las sentencias anteriores de los tribunales.
-
 Se entiende por jurisprudencia a la doctrina establecida por los órganos judiciales del Estado (por lo general, el Tribunal Supremo o Tribunales Superiores de Justicia) que se repite en más de una resolución. Esto significa que para conocer el contenido completo de las normas vigentes hay que considerar cómo han sido aplicadas en el pasado. En otras palabras, la jurisprudencia es el entendimiento de las normas jurídicas basado en las sentencias que han resuelto casos basándose en esas normas.

@@ -3,7 +3,7 @@ Dato asociado a un mensaje digital que permite garantizar **autoría** e **integ
 
 No implica la **confidencialidad** del mensaje.
 
-![asd](./1-esquema-public-key.png)
+![asd](res/1-esquema-public-key.png)
 
 ## Ley de firma digital
 
