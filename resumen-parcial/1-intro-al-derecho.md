@@ -45,9 +45,9 @@ Toda regla social obligatoria emanada de autoridad competente.
 
 Las leyes se pueden interpretar desde el punto de vista material o formal.<br>
 Desde el punto de vista ​**MATERIAL**:
-- Gramatical o Judicial: interpretación de acuerdo a la letra (lo que dice)
-- Exegética o Legal: interpretación de acuerdo al espíritu (por qué/para qué hicieron esa ley)
-- Dogmática o Doctrinal: de acuerdo a la doctrina
+- **_Gramatical o Judicial:_** interpretación de acuerdo a la letra (lo que dice)
+- **_Exegética o Legal:_** interpretación de acuerdo al espíritu (por qué/para qué hicieron esa ley)
+- **_Dogmática o Doctrinal:_** de acuerdo a la doctrina
 
 Desde el punto de vista ​**FORMAL**:
 1. Proyecto 
@@ -61,7 +61,10 @@ Las leyes no son retroactivas a menos que indiquen lo contrario.
 La ignorancia de las leyes no sirve de excusa para su incumplimiento.
 
 ### Doctrina
-Es el conjunto de documentos/"papers" elaborador por jurisconsultos/"investigadores", eminencias del derecho que analizan una ley e indican cómo usarla.
+Es una fuente material del derecho. Es el conjunto de documentos/"papers" elaborador por jurisconsultos/"investigadores", eminencias del derecho que analizan una ley e indican cómo usarla. La doctrina jurídica surge principalmente de las universidades, que estudian el derecho vigente y lo interpretan dentro de la ciencia del derecho. No tiene fuerza obligatoria, y no se reconoce como fuente oficial del derecho en la mayoría de los sistemas jurídicos.
+
+Por la vía de los hechos, sin embargo, constituye una fuerza de convicción para el juez, el legislador y el desarrollo del derecho consuetudinario, dado que la opinión y la crítica de los teóricos del derecho influye en la formación de la opinión de los que, posteriormente, crean normas nuevas o aplican las existentes.
 
 ### Jurisprudencia
 Las sentencias anteriores de los tribunales.
+Se entiende por jurisprudencia a la doctrina establecida por los órganos judiciales del Estado (por lo general, el Tribunal Supremo o Tribunales Superiores de Justicia) que se repite en más de una resolución. Esto significa que para conocer el contenido completo de las normas vigentes hay que considerar cómo han sido aplicadas en el pasado. En otras palabras, la jurisprudencia es el entendimiento de las normas jurídicas basado en las sentencias que han resuelto casos basándose en esas normas.
