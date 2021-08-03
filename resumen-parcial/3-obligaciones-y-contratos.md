@@ -1,79 +1,95 @@
 # Obligaciones
-Vínculo jurídico en que _el **acreedor (o activo)** pude exigirle al **deudor (o pasivo)** una **prestación**_.
+> La obligación es una relación jurídica en virtud de la cual el acreedor tiene el derecho a exigir del deudor una prestación destinada a satisfacer un interés lícito y, ante el incumplimiento, a obtener forzadamente la satisfacción de dicho interés.
 
 ![elementos](res/3-elementos.png)
 
 ## Elementos
 - **Prestación/Objeto**: Lo que el **deudor** le da al **acreedor**.
-  - De dar
-  - De hacer
-  - De no hacer
 - **Sujetos**: acreedor/activo, deudor/pasivo.
-- **Fuente**: 
-  - Contrato (varias personas se ponen de acuerdo sobre una declaración de voluntad común destinada a reglar sus derechos)
-  - Cuasicontrato (contrato sin consetimiento de una de las partes)
-  - Delitos
-  - Cuasidelitos
-  - La Ley (sentencia o fallo es su aplicación)
-  - Abuso de derecho
-  - Enriquecimiento sin causa
-  - Voluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador)
+- **Fuentes**: 
+  - Tradicionales
+    - Contrato (varias personas se ponen de acuerdo sobre una declaración de voluntad común destinada a reglar sus derechos)
+    - Cuasicontrato (contrato sin consentimiento de una de las partes)
+    - Delitos
+    - Cuasidelitos
+    - La Ley (sentencia o fallo es su aplicación)
+  - Modernas
+    - Abuso de derecho
+    - Enriquecimiento sin causa
+    - Voluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador)
 
 ## Requisitos:
-- Debe tener causa
-- Material y juridicamente posible
-- Lícita
-- Susceptible de valoración económica
+- debe ser material y jurídicamente posible
+- lícita, determinada o determinable
+- susceptible de valoración económica
+- debe corresponder a un interés patrimonial o extrapatrimonial del acreedor.
 
-## Efectos de las obligaciones
+## Efectos de las obligaciones con relación al acreedor
 La obligación da derecho al acreedor a:
-- emplear los medios legales para obtener la prestación del deudor
-- que otro le obtenga la prestación del deudor
-- obtener del deudor las indemnizaciones correspondientes.
-
-Obtener forzadamente la satisfacción del interés ante el incumplimiento del deudor.
+- emplear los medios legales para que el deudor le procure aquello a que se ha obligado
+- hacérselo procurar por otro a costa del deudor
+- obtener del deudor las indemnizaciones correspondientes
 
 ## Tipos de obligaciones
-- Civiles (dan derecho a exigir su cumplimiento) vs naturales (fundadas sólo en el derecho natural y en la equidad, no confieren acción para exigir su cumplimiento, pero que cumplidas por el deudor, autorizan para retener lo que se ha dado por razón de ellas)
-- Principales vs accesorias: Las accesorias son contraídas para asegurar el cumplimiento de la principal. La principal es la razón de la existencia de las accesorias.
-- Mancomunadas (la obligación se fracciona en partes independientes entre sí como partes haya) vs solidarias (su cumplimiento total puede exigirse a cualquiera de los deudores por cualquiera de los acreedores).
-- Alternativas: El deudor está obligado a complir una sola de varias obligaciones.
-- Facultativas: El acreedor solo puede exigir la principal, pero el deudor puede liberarse cumpliendo la accesoria.
-- Cláusula penal: una persona se sujeta a una pena para asegurar el cumplimiento de una obligación.
-- Divisibles: Tiene prestaciones susceptibles de cumplimiento parcial (por etapas/se puede fraccionar).
-- Indivisibles: No se pueden cumplir parcialmente.
-- Concurrentes: Aquellas en las que varios deudores deben el mismo objeto en razón de causas diferentes.
-- Disyuntivas: Puede ser cumplida por uno de varios sujetos.
+- **_De dar_**
+  > El deudor de una cosa cierta está obligado a conservarla en el mismo estado en que se encontraba cuando contrajo la obligación, y entregarla con sus accesorios, aunque hayan sido momentáneamente separados de ella.
+- **_De hacer o no hacer_**
+  > La **obligación de hacer** es aquella cuyo objeto consiste en la prestación de un servicio o en la realización de un hecho, en el tiempo, lugar y modo acordados por las partes.
+  > 
+  > **Obligación de no hacer**. Es aquella que tiene por objeto una abstención del deudor o tolerar una actividad ajena. Su incumplimiento imputable permite reclamar la destrucción física de lo hecho, y los daños y perjuicios.
+- **_Alternativas_**:
+  > La obligación alternativa tiene por objeto una prestación entre varias que son independientes y distintas entre sí. _El deudor está obligado a cumplir una sola de ellas_.
+- **_Facultativas_**:
+  > La obligación facultativa tiene una prestación principal y otra accesoria. El acreedor solo puede exigir la principal, pero el deudor puede liberarse cumpliendo la accesoria. El deudor dispone hasta el momento del pago para ejercitar la facultad de optar.
+- **_Cláusula penal_**:
+  > Aquella por la cual una persona, para asegurar el cumplimiento de una obligación, se sujeta a una pena o multa en caso de retardar o de no ejecutar la obligación.
+- **_Divisibles e Indivisibles_**:
+  > Obligación divisible es la que tiene por objeto prestaciones susceptibles de cumplimiento parcial.
+  > 
+  > Son indivisibles las obligaciones no susceptibles de cumplimiento parcial.
+- **_De sujeto plural_**:
+  - simplemente mancomunadas
+    > La obligación simplemente mancomunada es aquella en la que el crédito o la deuda se fracciona en tantas relaciones particulares independientes entre sí como acreedores o deudores haya. Las cuotas respectivas se consideran deudas o créditos distintos los unos de los otros.
+  - solidarias
+    > Hay solidaridad en las obligaciones con pluralidad de sujetos y originadas en una causa única cuando, en razón del título constitutivo o de la ley, su cumplimiento total puede exigirse a cualquiera de los deudores, por cualquiera de los acreedores.
+- **_Concurrentes_**:
+  > Obligaciones concurrentes son aquellas en las que varios deudores deben el mismo objeto en razón de causas diferentes.
+- **_Disyuntivas_**:
+  > Si la obligación debe ser cumplida por uno de varios sujetos, excepto estipulación en contrario, el acreedor elige cuál de ellos debe realizar el pago. Mientras el acreedor no demande a uno de los sujetos, cualquiera de ellos tiene derecho de pagar. El que paga no tiene derecho de exigir contribución o reembolso de los otros sujetos obligados.
+- Principales vs. accesorias: Las accesorias son contraídas para asegurar el cumplimiento de la principal. La principal es la razón de la existencia de las accesorias.
+  > Obligaciones **principales** son aquellas cuya existencia, régimen jurídico, eficacia y desarrollo funcional son autónomos e independientes de cualquier otro vínculo obligacional.
+  > 
+  > Los derechos y obligaciones son **accesorios** a una obligación principal cuando dependen de ella en cualquiera de los aspectos precedentemente indicados, o cuando resultan esenciales para satisfacer el interés del acreedor.
 
 ## Extinción de las obligaciones
 
 - Medios que satisfacen al acreedor:
-  - Pago: cumplimiento de la prestación.
-  - Compensación: se compensan las deudas del acreedor y el deudor porque hay otra/s deuda/s.
-  - Novación: La obligación es reemplazada o renovada.
-  - Confusión: Acreedor y deudor pasan a ser la misma persona.
-  - Dación en pago: El acreedor acepta una cosa distinta a la acordada.
+  - **Pago**: cumplimiento de la prestación.
+  - **Compensación**: se compensan las deudas del acreedor y el deudor porque hay otra/s deuda/s.
+  - **Novación**: La obligación es reemplazada o renovada.
+  - **Confusión**: Acreedor y deudor pasan a ser la misma persona.
+  - **Dación en pago**: El acreedor acepta una cosa distinta a la acordada.
 - Medios que no satisfacen al acreedor:
-  - Renuncia o remisión de deuda: El acreedor decide renunciar a la prestación.
-  - Imposibilidad de pago: pasa a ser imposible el pago. Gralmente se convierte en una de pagar una indemnización (ej: rompí el jarrón que te iba a dar).
-  - Prescripción liberatoria: luego de un plazo fijado por la ley desde el último reclamo, la deuda desaparece.
+  - **Renuncia o remisión de deuda**: El acreedor decide renunciar a la prestación.
+  - **Imposibilidad de pago**: pasa a ser imposible el pago. Generalmente se convierte en una de pagar una indemnización (ej: rompí el jarrón que te iba a dar).
+  - **Prescripción liberatoria**: luego de un plazo fijado por la ley desde el último reclamo, la deuda desaparece.
 
-En caso de fallecimiento las obligaciones se heredan, a menos que sólo la persona muerta sea capaz de cumplir la obligación.
+En caso de fallecimiento las obligaciones se heredan, a menos que solo la persona muerta sea capaz de cumplir la obligación.
 
 # Imputabilidad
-Las normas legales hacen cargo al autor de los actos, de la responsabilidad derivada de éstos.
+Las normas legales hacen cargo al autor de los actos, de la responsabilidad derivada de estos.
 Existen tres causas:
-- Dolo​ : intención de engañar, de dañar, etc.
-- Culpa​ : omisión de aquellas diligencias que exigiere la naturaleza de la obligación y que correspondiesen a las circunstancias de las personas, del tiempo y del lugar. Es subjetivo. Si no es culpa objetiva, la prueba corresponde al acreedor. Si es culpa objetiva, rige el principio de inversión de prueba, se presume dicha culpa. Habrá que producir pruebas en contrario por parte del deudor.
-- Mora​ : en obligaciones a plazo, la mora se produce por su solo vencimiento. Si no hay plazo fijado, se podrá extraer de la naturaleza de la obligación. Puede requerir intervención del juez. 
+- **Dolo**: intención de engañar, de dañar, etc.
+- **Culpa**: omisión de aquellas diligencias que exigiere la naturaleza de la obligación y que correspondiesen a las circunstancias de las personas, del tiempo y del lugar. Es subjetivo. Si no es culpa objetiva, la prueba corresponde al acreedor. Si es culpa objetiva, rige el principio de inversión de prueba, se presume dicha culpa. Habrá que producir pruebas en contrario por parte del deudor.
+- **Mora**: en obligaciones a plazo, la mora se produce por su solo vencimiento. Si no hay plazo fijado, se podrá extraer de la naturaleza de la obligación. Puede requerir intervención del juez. 
   
 Es importante también mencionar el daño. Este es derivado en casi todos los casos, del incumplimiento. Los elementos del daño son:
-- Daño emergente​ : daño o deterioro patrimonial efectivamente sufrido
-- Lucro cesante​ : aquello que pudiendo constituir un beneficio, ha dejado de percibirse como consecuencia. Es lo referente al daño material.
+- **Daño emergente**: daño o deterioro patrimonial efectivamente sufrido
+- **Lucro cesante**: aquello que pudiendo constituir un beneficio, ha dejado de percibirse como consecuencia. Es lo referente al daño material.
 
 Existen dos causales que no generan imputabilidad:
-- Caso fortuito​ : hecho de la ​ naturaleza​ que no pudo preverse o que previsto no pudo evitarse. Ejemplo: Inundación o terremoto.
-- Fuerza mayor​ : hecho del “soberano” que impide el cumplimiento de la obligación. Ejemplo: Declaración de una guerra.
+- **Caso fortuito**: hecho de la  naturaleza que no pudo preverse o que previsto no pudo evitarse. Ejemplo: Inundación o terremoto.
+- **Fuerza mayor**: hecho del “soberano” que impide el cumplimiento de la obligación. Ejemplo: Declaración de una guerra.
 
 # Contratos
 
@@ -81,26 +97,26 @@ Existen dos causales que no generan imputabilidad:
 Hay contrato cuando varias personas se ponen de acuerdo sobre una declaración de
 voluntad común, destinada a reglar sus derechos.
 ## Tipos de elementos de un contrato
-1. Esenciales​ : aquellos que resultan indispensables para la formación de todo
+1. Esenciales : aquellos que resultan indispensables para la formación de todo
 contrato.
-  - Capacidad​ : es la facultad de adquirir derechos y contraer obligaciones. Puede ser de hecho o de derecho.
-  - Consentimiento​ : es necesario que las partes contratantes coincidan en el fin y el contenido del acto a realizar y manifiesten su voluntad de adhesión al proyecto mediante alguno de los medios provistos por la ley. No necesariamente es explícito. La exteriorización puede no ser simultánea. El momento en el cual se produce la exteriorización dio lugar a varias teorías:
+  - Capacidad : es la facultad de adquirir derechos y contraer obligaciones. Puede ser de hecho o de derecho.
+  - Consentimiento : es necesario que las partes contratantes coincidan en el fin y el contenido del acto a realizar y manifiesten su voluntad de adhesión al proyecto mediante alguno de los medios provistos por la ley. No necesariamente es explícito. La exteriorización puede no ser simultánea. El momento en el cual se produce la exteriorización dio lugar a varias teorías:
     - de la declaración: la sola declaración de una de las partes es suficiente.
     - de la información: ambas partes están informadas de la aceptación de la otra.
     - de la emisión: se perfecciona el contrato desde que se manda la aceptación. - de la recepción: el aceptante puede retractarse hasta que la aceptación llegue a poder del proponente.
-  - El consentimiento debe darse sobre ​ todos​ los puntos del contrato. Aceptada la propuesta, cualquier modificación implica la gestión de un nuevo contrato.
-  - Objeto​ : debe ser lícito y de apreciación pecuniaria.
-  - Causa​ : puede confundirse con el objeto. Se considera causa, la causa final o finalidad del contrato.
-  - Forma​ : es requisito esencial para cierto tipo de contratos. Son los recaudos que la ley exige para darle validez o para poder probar la expresión de la voluntad de las partes. También se incluyen en esta categoría aquellas condiciones particulares de cada tipo de contrato (como el precio en el contrato de obra pública).
-1. ​ Naturales​ : son considerados implícitos por la ley.
-2. Accidentales​ : aquellos establecidos mediante declaración expresa, sin opción de la ley.
+  - El consentimiento debe darse sobre  todos los puntos del contrato. Aceptada la propuesta, cualquier modificación implica la gestión de un nuevo contrato.
+  - Objeto : debe ser lícito y de apreciación pecuniaria.
+  - Causa : puede confundirse con el objeto. Se considera causa, la causa final o finalidad del contrato.
+  - Forma : es requisito esencial para cierto tipo de contratos. Son los recaudos que la ley exige para darle validez o para poder probar la expresión de la voluntad de las partes. También se incluyen en esta categoría aquellas condiciones particulares de cada tipo de contrato (como el precio en el contrato de obra pública).
+1.  Naturales : son considerados implícitos por la ley.
+2. Accidentales : aquellos establecidos mediante declaración expresa, sin opción de la ley.
 
 ## Clasificación de los contratos
-1. Unilaterales o bilaterales (Art. 966 CCyC)​ : según si una sola de las partes se obliga hacia la otra sin que ésta le quede obligada (existencia o no de obligación recíproca).
-2. Onerosos o gratuitos (Art. 967 CCyC)​ : es oneroso cuando ambas partes se aseguren una prestación y gratuito si asigna ventajas a una sola de las partes.
-3. Conmutativos o aleatorios (Art. 968 CCyC)​ : según si la prestación que cada una de las partes recibe, depende o no de un hecho futuro e incierto.
-4. Formales o no formales (Art. 969 CCyC)​ : es para contratos consensuales. Según si dependan de una forma especial como requisito esencial de validez. Los no formales son la regla, los formales la excepción.
-5. Nominados o innominados (Art. 970 CCyC)​ : si la ley lo designa o no bajo una denominación especial.
+1. Unilaterales o bilaterales (Art. 966 CCyC) : según si una sola de las partes se obliga hacia la otra sin que ésta le quede obligada (existencia o no de obligación recíproca).
+2. Onerosos o gratuitos (Art. 967 CCyC) : es oneroso cuando ambas partes se aseguren una prestación y gratuito si asigna ventajas a una sola de las partes.
+3. Conmutativos o aleatorios (Art. 968 CCyC) : según si la prestación que cada una de las partes recibe, depende o no de un hecho futuro e incierto.
+4. Formales o no formales (Art. 969 CCyC) : es para contratos consensuales. Según si dependan de una forma especial como requisito esencial de validez. Los no formales son la regla, los formales la excepción.
+5. Nominados o innominados (Art. 970 CCyC) : si la ley lo designa o no bajo una denominación especial.
 
 ## Prueba de los contratos
 La prueba es la demostración de la verdad de un hecho del cual derivan consecuencias jurídicas. 
@@ -130,8 +146,8 @@ con derecho para el acreedor al resarcimiento de los daños y perjuicios. El acr
 optar por el cumplimiento de la obligación o la resolución del contrato. El incumplimiento
 debe ser sobre la obligación principal.
 Existen dos formas de ejecución del pacto comisorio cuando es tácito:
-1. Extrajudicialmente​ : previa intimación de cumplimiento en un plazo no inferior a quince días
-2. Judicialmente​ : mediante demanda, sin necesidad de intimación
+1. Extrajudicialmente: previa intimación de cumplimiento en un plazo no inferior a quince días
+2. Judicialmente: mediante demanda, sin necesidad de intimación
 ## Cláusula penal
 Es una cláusula accesoria que tiene lugar en caso de incumplimiento de la obligación
 principal y es inmutable, una vez pactada no puede modificarse su valor salvo que se

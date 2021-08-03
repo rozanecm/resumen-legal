@@ -4,9 +4,9 @@
 - Obtener la mejor tecnología para las necesidades
 - Momento oportuno
 - Menor costo
-- Venta de bienes al emjor postor
+- Venta de bienes al mejor postor
 
-## Princípios grales
+## Principios generales
 - Promoción de la concurrencia de interesados 
 - Promoción de la competencia entre oferentes.
 - Transparencia en los procedimientos
@@ -22,7 +22,7 @@
 - Alquileres con opción a compra
 - Permutas
 - Concesiones de uso de los bienes del dominio público y privado del estado nacional
-- Todos aquellos contratos no excluídos expresamente obras públicas
+- Todos aquellos contratos no excluidos expresamente obras públicas
 - Concesiones de obras públicas
 - Concesiones de servicios públicos
 - Licencias
@@ -30,15 +30,15 @@
 ## Contratos excluidos
 - Los de empleo público.
 - Las compras por caja chica.
-- Los que se celebren celebren con estados estados extranjeros, extranjeros, con entidades de derecho público internacional, con instituciones multilaterales de crédito, los que se financien total o parcialmente con recursos provenientes de esos organismos.
+- Los que se celebren con estados extranjeros, extranjeros, con entidades de derecho público internacional, con instituciones multilaterales de crédito, los que se financien total o parcialmente con recursos provenientes de esos organismos.
 - Los comprendidos en operaciones de crédito público.
 
 ## Tipos de procedimientos de selección
 
 ### Escala
 - Hasta $ 75.000: contratación directa.
-- Mas de $ 75.000 hasta $ 300.000: licitación o concurso privados.
-- Mas de $ 300.000: licitación o concurso públicos.
+- Más de $ 75.000 hasta $ 300.000: licitación o concurso privados.
+- Más de $ 300.000: licitación o concurso públicos.
 
 ### Licitación
 Selección principalmente por factores económicos.
@@ -54,7 +54,7 @@ Selección principalmente por factores no económicos.
 - Urgencia o emergencia
 - Secreto por razones de seguridad o defensa nacional.
 - Reparaciones de maquinarias, vehículos, equipos o motores.
-- Interadministrativas, para la prestación de servicios de seguridad, logística o salud.
+- Inter administrativas, para la prestación de servicios de seguridad, logística o salud.
 - Contrataciones con universidades nacionales.
 
 ### Contratación directa por trámite simplificado
@@ -66,13 +66,13 @@ Contratación directa hasta $10.000
 - Obligatorio cuando el monto estimado del contrato supere los $300.000
 
 ### ... Privada
-- Llamado exclusivo a proveedores incorporados al sipro.
+- Llamado exclusivo a proveedores incorporados al SIPRO.
 - Monto estimado del contrato hasta $300.000
 
 ### De etapa única
 La comparación de las ofertas y calidades de los oferentes se realiza en un mismo acto 
 ### De etapa múltiple
-Cuando se realicen en dos o mas fases la evaluación y comparacion de las ofertas y oferentes (preselecciones sucesivas).
+Cuando se realicen en dos o más fases la evaluación y comparación de las ofertas y oferentes (preselecciones sucesivas).
 ### Nacionales
 La convocatoria está dirigida a interesados locales (domicilio o sede principal de sus negocios se encuentre en el país o tengan sucursal en el país).
 ### Internacionales
@@ -80,7 +80,7 @@ La convocatoria se extienda a interesados y oferentes del exterior (sede princip
 
 ## Modalidades del proceso de licitación
 
-- **Orden de Compra abierta**: La cantidad de bienes o servícios no se fijó en el contrato, el organismo contratante puede realizar los requerimientos durante cierto lapso, al precio unitario adjudicado.
+- **Orden de Compra abierta**: La cantidad de bienes o servicios no se fijó en el contrato, el organismo contratante puede realizar los requerimientos durante cierto lapso, al precio unitario adjudicado.
 - **Compra Informatizada**: Bienes homogéneos de bajo costo unitario que se utilizan habitualmente y en cantidades considerables y con mercado permanente. Presentación de ofertas en medio magnético.
 - **Con iniciativa privada**: Propuesta por una persona física o jurídica, pero después compite.
 - **Con precio tope o de referencia**: Las propuestas no pueden superar el precio máximo establecido en más de 5%.
