@@ -44,17 +44,17 @@ El CCyC es una ley.
 Toda regla social obligatoria emanada de autoridad competente.
 
 Las leyes se pueden interpretar desde el punto de vista material o formal.<br>
-Desde el punto de vista ​**MATERIAL**:
+Desde el punto de vista **MATERIAL**:
 - **_Gramatical o Judicial:_** interpretación de acuerdo a la letra (lo que dice)
 - **_Exegética o Legal:_** interpretación de acuerdo al espíritu (por qué/para qué hicieron esa ley)
 - **_Dogmática o Doctrinal:_** de acuerdo a la doctrina
 
-Desde el punto de vista ​**FORMAL**:
-1. Proyecto 
+Desde el punto de vista **FORMAL**:
+1. Proyecto. La “iniciativa legislativa”, es decir la facultad de presentar proyectos de ley, corresponde a los diputados, senadores y al presidente de la Nación. La última reforma constitucional de 1994 incorporó también el derecho de “iniciativa popular”, que permite a los ciudadanos presentar proyectos de ley ante la Cámara de Diputados, siempre que cumplan con los requisitos que determina la ley. Si un proyecto ingresa al Congreso por la Cámara de Diputados, esta se convierte en la cámara de origen del proyecto y el Senado pasa a ser la cámara revisora. Cuando un proyecto se presenta en el Senado, este se convierte en cámara de origen y la Cámara de Diputados, en cámara revisora.
 2. Sanción (ambas cámaras aprueban)
 3. Promulgación (ejecutivo no veta)
 4. Publicación (boletín oficial)
-5. Vigencia (cuándo la ley dice que empieza a valer, o escrito en la ley u 8 días después de su publicación)
+5. Vigencia (cuándo la ley dice que empieza a valer, o escrito en la ley u 8 días después de su publicación). Por regla general, las leyes entran en vigencia después de 8 días que se cuentan a partir de su publicación, a menos que la misma ley diga otra cosa (por ejemplo, que es obligatoria desde tal fecha) (fuente: [boletín oficial](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/boletin-oficial)).
 
 Las leyes no son retroactivas a menos que indiquen lo contrario.
 

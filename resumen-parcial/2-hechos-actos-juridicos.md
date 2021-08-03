@@ -107,15 +107,21 @@ Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecuci
 #### Vicios de la voluntad
 Causan nulidad del acto
 
-- **Error**: falsa noción de una cosa
-  - **_De hecho:_** aplicar mal la norma
+- **Error**: falsa noción de una cosa.
+  > Se entiende por “error” el falso conocimiento de la realidad de las cosas. Es un vicio de la voluntad que afecta la intención del sujeto, como elemento interno del acto voluntario; de no haber tenido un falso conocimiento de las cosas, la persona jamás hubiera cele- brado el acto.
+  - **_De hecho:_** aplicar mal la norma. Segel CCyC comentado:
+    > Puede recaer sobre algún elemento de hecho, contenido o presupuesto del acto; en tal caso se tratará de error de hecho.
   - **_De derecho:_** haber equivocado el concepto sobre la naturaleza jurídica de la norma.
   - Causa nulidad cuando es de hecho, escencial y reconocible por el destinatario
-- **Dolo**: Intención de delinquir. Mentir (Aserción de lo falso o simulación de lo verdadero) u ocultar. Puede ser por acción u omisión. Causa nulidad cuando:
+- **Dolo**: Intención de delinquir. Mentir (Aserción de lo falso o simulación de lo verdadero) u ocultar. Puede ser por acción u omisión. Es esencial y causa la nulidad del acto si:
   - Es grave
+    > No cualquier acción dolosa es suficiente para decretar la nulidad de un acto. El ardid, as- tucia o maquinación deben ser idóneos para provocar engaño, porque este constituye la esencia del dolo. No hay dolo cuando el artificio o engaño es menor, una simple picardía, exageración o avivada que cualquiera podría advertir sin ningún esfuerzo extra. El límite de tolerancia radica en la buena fe y en la entidad del engaño para inducir al otro.<br>La gravedad del dolo, esto es, la idoneidad del engaño, debe ser apreciada según las características y condiciones de la víctima. Un ardid que no podría llevar a engaño a una persona sagaz y culta tal vez sea suficiente para inducir a un analfabeto o una persona de pocas luces a celebrar el negocio.<br>Las mismas consideraciones son de aplicación a la omisión dolosa cuando se trata de apreciar su gravedad.
   - es determinante para la voluntad
+    > El engaño debe estar encaminado a lograr que otro realice un determinado acto jurídico. El dolo es causa determinante del acto cuando la maniobra elaborada por el autor afecta el proceso deliberativo interno de la otra persona y vicia la intención; de no haber sido por esa conducta que le presentó a la víctima un estado de las cosas falso o irreal, el acto no se hubiera llevado a cabo. Si no obstante el engaño, la víctima hubiere igualmente celebrado el negocio jurídico, no podrá reclamarse la nulidad porque el dolo habría sido incidental o irrelevante.
   - causa daño importante
+    > Para que pueda acarrear la nulidad del acto, el CCyC exige que el daño causado por la acción dolosa sea importante. Vale decir, la víctima tiene que haber experimentado un perjuicio de cierta magnitud. Este requisito ha sido controvertido por algunos autores, pero el CCyC —al igual que el Código Civil de Vélez, que siguió la postura de Chardón — lo mantiene y guarda relación con el principio de conservación del acto jurídico, al que expresamente y en diferentes disposiciones se hace referencia. De modo que para declarar su ineficacia es preciso que se configuren razones de envergadura tal que justifique apartarse de dicho postulado que tiende a la estabilidad de los negocios y a la seguridad jurídica. En caso de que el dolo no hubiere provocado un daño significativo, la víctima siempre podrá reclamar la reparación de los daños y perjuicios sin necesidad de invalidar el acto jurídico, toda vez que la ilicitud de la conducta siempre se mantiene.<br>El daño que provoca la nulidad puede ser patrimonial o moral. En ambos casos, la importancia del perjuicio debe ser ponderada tomando en consideración la trascendencia o entidad del negocio afectado, con prescindencia del monto económico comprometido.
   - no hubo dolo por ambas partes
+    > Es una exigencia del principio de la buena fe. Dice Borda: “quien juega sucio, no tiene derecho a exigir un juego limpio. Si las partes se han engañado mutuamente, la ley se desinteresa de ellas; es bueno que sufran perjuicio de su propia inconducta”.
 - **Fuerza e intimidacion/Violencia**: Amenazas, violencia física o moral, causan nulidad según la relevancia.
 
 #### Vicios de los actos jurídicos
