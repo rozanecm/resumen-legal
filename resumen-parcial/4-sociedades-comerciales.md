@@ -1,6 +1,6 @@
 # Sociedades comerciales
 ## Tipos de entes jurídicos:
-- Publicos 
+- Públicos 
   - Estado nacional
   - Estado provincial
   - Ciudad de Buenos Aires
@@ -18,7 +18,7 @@
 ## Asociación civil
 - Entidad privada **sin ánimo de lucro**
 - Con personalidad jurídica plena
-- Objeto de fomentar entre sus socios y/o terceros alguna actividad socio-cultural.
+- Objeto de fomentar entre sus socios y/o terceros alguna actividad sociocultural.
 - Integrada por personas físicas
 - Objetivos:
   - Culturales
@@ -35,26 +35,26 @@
 ## Sociedades comerciales
 Tiene:
 - 1 o más personas
-- Organización (estatuto o contrato socual)
+- Organización (estatuto o contrato social)
 - Tipicidad
 - Aportes de los socios
-  - Obligaciones de dar por parte de los socios (dinero, inmuebles, cosas, derechos, uso y goce de bienes, fondos de comercio, etc)
+  - Obligaciones de dar por parte de los socios (dinero, inmuebles, cosas, derechos, uso y goce de bienes, fondos de comercio, etc.)
   - Obligaciones de hacer (aportar trabajo)
 - Fin societario
 - Participación en beneficios y pérdidas
 
 ## Responsabilidad de los socios
 Según los BIENES con los que deben responder:
-- **Limitada**: los socios responden sólo con los *aportes a la sociedad*.
-- **Ilimitada**:  los socios responden  con los *aportes a la sociedad* y con *todos sus bienes personales*.
+- **Limitada**: los socios responden solo con los *aportes a la sociedad*.
+- **Ilimitada**: los socios responden con los *aportes a la sociedad* y con *todos sus bienes personales*.
 
 Según la CANTIDAD por la que deben responder:
-- **Mancomunada**: cada socio responde sólo por una parte de las obligaciones.
-- **Solidaria**: cualquiera de los socios es responsable por la totalidad de las obligaciones sociales (el acreedor puede exigirle el cumplimiento de toda la obligación a un solo socio y éste no puede exigir la división de  la deuda entre los demás socios).
+- **Mancomunada**: cada socio responde solo por una parte de las obligaciones.
+- **Solidaria**: cualquiera de los socios es responsable por la totalidad de las obligaciones sociales (el acreedor puede exigirle el cumplimiento de toda la obligación a un solo socio y este no puede exigir la división de la deuda entre los demás socios).
 
 Según el ORDEN en que deben responder:
 - **Subsidiaria** (con beneficio de excusión): el acreedor social va contra el patrimonio social y recién después contra el patrimonio personal.
-- **No subsidiaria**: el acreedor social puede exigir el cumplimiento de la obligación directamente al socio (y éste no podrá exigirle que accione primero contra el patrimonio de la sociedad).
+- **No subsidiaria**: el acreedor social puede exigir el cumplimiento de la obligación directamente al socio (y este no podrá exigirle que accione primero contra el patrimonio de la sociedad).
 
 ## Sociedades de interés o "de personas"
 - partes = *partes de interés*
@@ -70,9 +70,9 @@ Según el ORDEN en que deben responder:
   - Sociedad Cooperativa (Ley 20.337)
 
 ### Sociedad colectiva
-- Gralmente familias
+- Generalmente familias
 - Todos los socios intervienen en la gestión de la sociedad (todos deciden y todos se cagan a patadas, bardo)
-- Sólo adecuada para pocos socios
+- Solo adecuada para pocos socios
 - Sólo podés sumar socios si todos quieren
 - muere uno, se cierra, a menos que la constitución diga algo al respecto.
 ### Sociedad comandita
@@ -104,7 +104,7 @@ Según el ORDEN en que deben responder:
 ### SUA (Sociedad Unipersonal Anónima)
 - Es de 1 persona (la SA degenera en esto cuando queda 1 solo socio)
 - Requiere 3 directores + 3 síndicos (contador que audita a los directores y a la empresa)
-- Gralmente se usa como "cubierta" a otra empresa
+- Generalmente se usa como “cubierta” a otra empresa
 - Requiere 100% del capital social
 
 ### SAS (Sociedad por Acciones Simplificada)
@@ -118,7 +118,7 @@ Según el ORDEN en que deben responder:
 - Período de prueba de 12 meses en vez de 3
 
 ## Disolución de una sociedad
-- Contracturales:
+- Contractuales:
   - Prevista por los socios en el contrato constitutivo
 - Legales:
   - Por decisión de los socios
@@ -128,7 +128,7 @@ Según el ORDEN en que deben responder:
   - Por pérdida total del capital social
   - Por declaración de la quiebra
   - Por su fusión con otra sociedad
-  - Por reducción a uno del nro de socios; (3 meses de plazo) **
+  - Por reducción a uno del nro. de socios; (3 meses de plazo) **
   - Por cancelación de la oferta pública o la cotización de sus acciones
   - Por resolución firme que le retire la autorización para funcionar
 
@@ -137,11 +137,11 @@ La reducción a uno del número de socios no es causal de disolución. Se transf
 
 |aspecto|Sociedad colectiva|Sociedad en comandita simple|Sociedad en comandita por acciones|Sociedad anónima|Sociedad de responsabilidad limitada|
 |-|-|-|-|-|-|
-|Tipo social|Socios|Colectivos o gestores (adiministran) vs comanditarios|Colectivos o gestores (adiministran) vs comanditarios|Accionistas|Socios|
+|Tipo social|Socios|Colectivos o gestores (administran) vs. comanditarios|Colectivos o gestores (administran) vs. comanditarios|Accionistas|Socios|
 |Nombre de las partes|partes de interés |cuotas|acciones|acciones|cuotas|
 |Valor de las partes|puede ser desigual|igual|igual|igual|igual|
 |votos|Cada socio 1 voto (no importan aportes).|1 parte=1 voto|ns/nc|ns/nc|1 parte=1 voto|
 |El aumento o disminución del capital social, requieren reforma estatutaria?|si|si|si|no|si|
-|Capital social||Se integra con los aportes de capital de los socios comanditarios y de los colectivos , si estos aportes existen.|Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Las acciones en circulación corresponden al capital , parado por los accionistas.<br>Se pude emitir acciones privilegiadas , acciones de goce o industrias, acciones con dividendo preferencia y sin derecho a voto,y bonos obligatoria mente convertibles en acciones||
-|miembros|Mínimo dos socios y no hay máximo.|Mínimo un socio gestor y 1 comanditario. No hay limite máximo|Mínimo un socio gestor y comanditarios y no hay limite máximo.|Mínimo 2 accionistas y no hay limite máximo.|Mínimo 2, máximo 50.|
+|Capital social||Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Las acciones en circulación corresponden al capital, parado por los accionistas.<br>Se puede emitir acciones privilegiadas, acciones de goce o industrias, acciones con dividendo preferencia y sin derecho a voto, y bonos obligatoria mente convertibles en acciones||
+|miembros|Mínimo dos socios y no hay máximo.|Mínimo un socio gestor y 1 comanditario. No hay límite máximo|Mínimo un socio gestor y comanditarios y no hay limite máximo.|Mínimo 2 accionistas y no hay limite máximo.|Mínimo 2, máximo 50.|
 |responsabilidad|Solidaria e ilimitada la de los socios gestores.|Solidaria e ilimitada la de los socios gestores.<br>Limitada, la de los socios comanditarios.|Solidaria e ilimitada la de los socios gestores.<br>Limitada, la de los socios comanditarios.|Limitada.|Limitada.|
