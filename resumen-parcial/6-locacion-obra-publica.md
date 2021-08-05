@@ -1,5 +1,36 @@
+1. [Elementos de la obra pública](#elementos-de-la-obra-pública)
+2. [¿qué tipo de contrato es?](#qué-tipo-de-contrato-es)
+3. [Vínculo jurídico entre las partes](#vínculo-jurídico-entre-las-partes)
+    1. [Jurisdicción contencioso - administrativa](#jurisdicción-contencioso---administrativa)
+4. [Partes](#partes)
+5. [Sistemas de contratación](#sistemas-de-contratación)
+6. [Garantías](#garantías)
+7. [Responsabilidad precontractual](#responsabilidad-precontractual)
+8. [obligaciones / responsabilidades del contratista](#obligaciones--responsabilidades-del-contratista)
+9. [obligaciones / responsabilidades del comitente](#obligaciones--responsabilidades-del-comitente)
+10. [clausula penal (multas)](#clausula-penal-multas)
+11. [Causales de rescisión](#causales-de-rescisión)
+    1. [Imputables al contratista](#imputables-al-contratista)
+        1. [Consecuencias](#consecuencias)
+    2. [Imputables al comitente](#imputables-al-comitente)
+        1. [Consecuencias](#consecuencias)
+12. [suspensiones unilaterales:](#suspensiones-unilaterales)
+    1. [por parte del comitente:](#por-parte-del-comitente)
+    2. [por parte del contratista:](#por-parte-del-contratista)
+13. [Modificación de las condiciones del contrato](#modificación-de-las-condiciones-del-contrato)
+14. [Modificaciones de obra](#modificaciones-de-obra)
+    1. [Imprevisto](#imprevisto)
+    2. [Imprevisible](#imprevisible)
+15. [Pago de las obras (Capítulo 7)](#pago-de-las-obras-capítulo-7)
+    1. [Inembargabilidad de los Pagos (Art. 47)](#inembargabilidad-de-los-pagos-art-47)
+    2. [Retraso en el Pago (Art. 48)](#retraso-en-el-pago-art-48)
+16. [Recepciones](#recepciones)
+    1. [Provisoria](#provisoria)
+    2. [Definitiva](#definitiva)
+    3. [Responsabilidad del contratista ante ruina parcial o total](#responsabilidad-del-contratista-ante-ruina-parcial-o-total)
+
 # Locación de obra pública
-Obra Pública nacional es toda construcción, trabajo o servício de indústria que se ejecute con fondos del Tesoro Nacional, a excepción de los efectuados con subsidios y las construcciones militares.
+Obra Pública nacional es toda construcción, trabajo o servicio de industria que se ejecute con fondos del Tesoro Nacional, a excepción de los efectuados con subsidios y las construcciones militares.
 
 ## Elementos de la obra pública
 - PROYECTO: Conjunto de elementos grafométricos que definen la obra. Tiene planos, memoria descriptiva, y cómputos numéricos. Si se trata de una obra inmaterial (como un proyecto), debe haber un anteproyecto.
@@ -12,9 +43,9 @@ Obra Pública nacional es toda construcción, trabajo o servício de indústria 
 - CRÉDITO LEGAL: Significa que la obra está presupuestada, o sea, que existe una partida presupuestaria que la avale.
 
 La documentación de la obra y del oferente debe ser de acceso público.
-Registro Nacional de Obra Pública: Se encarga de determinar las capacidades de las empresas a traves de las obras que las empresas realizan o han realizado.
+Registro Nacional de Obra Pública: Se encarga de determinar las capacidades de las empresas a través de las obras que las empresas realizan o han realizado.
 
-## ¿qué tipo de contrato es?
+## ¿Qué tipo de contrato es?
 - Bilateral (Hay dos partes)
 - Conmutativo (prestaciones recíprocas equivalentes)
 - Oneroso (hay monto en juego)
@@ -24,8 +55,8 @@ Registro Nacional de Obra Pública: Se encarga de determinar las capacidades de 
 
 ## Vínculo jurídico entre las partes
 - Relación jurídica asimétrica. El Estado tiene un nivel jurídico superior.
-- No es de aplicación la "teoría de la imprevisión" (cuando la prestación se vuelve demasiado cara, la parte afectada puede demandar la resolución del contrato).
-- Existen cláusulas exhorbitantes a favor de la administración (clausulas que implican privilegios que en el Derecho Civil normal serían abuso de derecho).
+- No es de aplicación la “teoría de la imprevisión” (cuando la prestación se vuelve demasiado cara, la parte afectada puede demandar la resolución del contrato).
+- Existen cláusulas exorbitantes a favor de la administración (clausulas que implican privilegios que en el Derecho Civil normal serían abuso de derecho).
 
 ### Jurisdicción contencioso - administrativa
 El contratista puede elegir para litigar:
@@ -33,19 +64,18 @@ El contratista puede elegir para litigar:
 - Tribunal Arbitral (vía arbitral): Formado por representantes del Estado y particulares. Actúa de modo rápido.
 - Recurso Jerárquico (vía jerárquica): el Contratista puede accionar ante el superior jerárquico de quien firmó el contrato. 
 
-La justicia presume que el Estado tiene razón, por lo tanto aquí
-tiene que demostrar el Contratista.
+La justicia presume que el Estado tiene razón, por lo tanto aquí tiene que demostrar el Contratista.
 
 ## Partes
-- Locatario vs locador o empresario
-- Comitente vs contratista
-- Director de obra vs representante técnico y jefe de obra
+- Locatario vs. locador o empresario
+- Comitente vs. contratista
+- Director de obra vs. representante técnico y jefe de obra
 
 ## Sistemas de contratación
-- **Unidad de medida**: El precio se fija por medida o por unidades técnicas (metro de camino, hectarea cubierta, metro cuadrado de mampostería, etc.). El precio final de la obra es indeterminado.
+- **Unidad de medida**: El precio se fija por medida o por unidades técnicas (metro de camino, hectárea cubierta, metro cuadrado de mampostería, etc.). El precio final de la obra es indeterminado.
 - **Coste y costas** (urgencia justificada):
   - Coste: materiales y mano de obra
-  - Costas: utilidad, gastos grales, amortizaciones de equipos
+  - Costas: utilidad, gastos generales, amortizaciones de equipos
   - Es bueno cuando no es posible contar, al momento de la contratación, con una documentación detallada del proyecto.
   - Para el comitente el precio de la obra es su costo real.
   - El comitente puede introducir modificaciones.
@@ -65,13 +95,13 @@ tiene que demostrar el Contratista.
 No se reconoce responsabilidad por todos los gastos en estudios, planos y demás gastos anteriores incurridos por el contratista. Pero si la adjudicación es arbitraria se puede reclamar daños y perjuicios.
 
 
-## obligaciones / responsabilidades del contratista
+## Obligaciones / responsabilidades del contratista
 - Ejecutar la obra en la forma debida
 - Entregarla en el plazo convenido
 - Permitir al comitente el contralor de las tareas
 - Responder ante el comitente por la solidez de la obra 
 - **No transferir el contrato a otro ni asociarse para cumplirlo.**
-## obligaciones / responsabilidades del comitente
+## Obligaciones / responsabilidades del comitente
 - Pago en término (pago posterior a 30 días dará derecho al Contratista a reclamar intereses)
 - Cooperar con el contratista para facilitar la realización de los trabajos
 - Recibir la obra
@@ -84,7 +114,7 @@ El monto de las multas por mora se establece en el pliego de condiciones.
 Existen las multas por retraso.
 Incluso si el Estado debe no pagar por tema de multas o lo que sea, siempre debe pagar lo requerido para el personal.
 
-## Causales de rescición
+## Causales de rescisión
 
 ### Imputables al contratista
 - Cuando abandone las obras o interrumpa los trabajos por plazo mayor de 8 días en tres ocasiones.
@@ -98,15 +128,15 @@ Incluso si el Estado debe no pagar por tema de multas o lo que sea, siempre debe
 #### Consecuencias
 - El contratista cargará con todos gastos que sufra la Administración a causa de una nueva licitación.
 - La administración podrá quedarse con equipos y materiales del contratista, previa valuación de los mismos.
-- Todos los créditos pondientes a favor del contratista (certificados, materiales, equipos) quedarán retenidos hasta la liquidación final.
+- Todos los créditos pendientes a favor del contratista (certificados, materiales, equipos) quedarán retenidos hasta la liquidación final.
 - El contratista perderá el fondo de garantía de contrato.
 
 ### Imputables al comitente
-- Si la administración suspende por mas de tres meses la ejecución de obra.
+- Si la administración suspende por más de tres meses la ejecución de obra.
 - Cuando hay cambios en el costo de la obra por modificación o por error mayores o menores al 20%.
 - Por falta de pago (el contratista no puede ejercer el derecho de retención de la obra).
 - Cuando, por motivos imputables a la administración, se afecte el ritmo de obra reduciéndolo por debajo del 50% por más de tres meses.
-- Cuando la administración no cumpla con sus deberes en los plazos fijados más 30 días (entrega de terrenos, replanteos, etc).
+- Cuando la administración no cumpla con sus deberes en los plazos fijados más 30 días (entrega de terrenos, replanteos, etc.).
 - Caso fortuito
 - Fuerza mayor
 
@@ -119,8 +149,8 @@ Incluso si el Estado debe no pagar por tema de multas o lo que sea, siempre debe
 
 ## suspensiones unilaterales:
 ### por parte del comitente:
-- se reconoce unicamente el daño emergente. no se reconoce concepto indemnizatorio alguno en relación al beneficio no percibido por las obras no ejecutadas (lucro cesante)
-- se devuelve fondo de gtia. del contratista
+- se reconoce únicamente el daño emergente. no se reconoce concepto indemnizatorio alguno con relación al beneficio no percibido por las obras no ejecutadas (lucro cesante)
+- se devuelve fondo de garantía del contratista
 ### por parte del contratista:
 - perdida de la garantía de ejecución del contrato.
 - debe afrontar los gastos de un nuevo llamado a concurso y los gastos complementarios originados por la resolución del contrato
@@ -144,14 +174,11 @@ contratista, por lo tanto la realización de este trabajo implica un
 adicional que deberá ser costeado por el mismo, considerándose
 dentro del monto de obra.
 ### Imprevisible
-acontecimiento que no pudo ser planificado o previsto por el
-comitente, por lo tanto la realización de este trabajo implica un
-adicional que deberá ser costeado por el mismo (contratación directa)
-(el contratista, tendrá opción de rechazar los trabajos)
+Acontecimiento que no pudo ser planificado o previsto por el comitente, por lo tanto la realización de este trabajo implica un adicional que deberá ser costeado por el mismo (contratación directa) (el contratista tendrá opción de rechazar los trabajos)
 
 ## Pago de las obras (Capítulo 7)
 Las condiciones de pago deben estar establecidas en el pliego de bases y condiciones. No
-debe haber posibilidad de ser pactadas. La declaración económico - financiera de la obra es
+debe haber posibilidad de ser pactadas. La declaración económico-financiera de la obra es
 tan fundamental que cualquier alteración que en ella hagamos vemos alteradas las
 condiciones de IGUALDAD.
 ### Inembargabilidad de los Pagos (Art. 47)
