@@ -29,8 +29,6 @@
         3. [Prenda](#prenda)
         4. [Expropiación (≠ confiscación)](#expropiación--confiscación)
 
-# Derechos Reales
-
 ## Derechos patrimoniales:
 sirven para la satisfacción de las necesidades económicas del titular. Son apreciables pecuniariamente.
 - Derechos Personales o Creditorios:a exigir que una persona determinada cumpla con una obligación.
