@@ -1,5 +1,21 @@
 # Sujetos, Objetos, Hechos y Actos Jurídicos
 
+1. Sujeto del derecho
+    1. Atributos de una persona humana
+    2. Persona jurídica
+        1. Atributos de la persona jurídica (todo en el estatuto)
+2. Objeto del derecho
+    1.  Tipos de cosas
+3. Hecho jurídico
+    1. Voluntad
+    2. Acto jurídico
+        1. Vicios de la voluntad
+        2. Vicios de los actos jurídicos
+        3. Nulidad
+        1. Efecto
+        2. Confirmación del acto jurídico
+    3. Actos ilícitos
+    
 ## Sujeto del derecho
 - **_Persona:_** Todos los entes susceptibles de adquirir derechos y contraer obligaciones.
 - **_Persona humana:_** De características físicas, visible, de existencia real.
@@ -68,14 +84,18 @@ Los administradores responden ilimitada y solidariamente frente a la persona jur
 ![hechos](res/2-hechos.jpeg)
 
 Los hechos pueden ser:
-- Exteriores (los hace la naturaleza)
-- Humanos (los hace alguien)
-  - Involuntarios: sin discernimiento, intención o libertad
-  - Voluntario: Con discernimiento, intención y libertad
+- Naturales: son aquellos que se producen sin la intervención del hombre pero pueden dar lugar a efectos jurídicos. Por ejemplo, la muerte de una persona produce la apertura de su sucesión.
+- Humanos (los hace alguien). Por ejemplo, comprar un inmueble. 
+  - Involuntarios: sin discernimiento, intención o libertad:
+    - el acto de quien, al momento de realizarlo, está privado de la razón;
+    - el acto ilícito de la persona menor de edad que no ha cumplido diez años;
+    - el acto lícito de la persona menor de edad que no ha cumplido trece años, sin perjuicio de lo establecido en disposiciones especiales.
+
+  - Voluntario: Con discernimiento, intención y libertad. 
     - Ilícito: prohibido por la ley
     - [Lícito](#actos-licitos): no prohibido por la ley
-      - (Simple acto lícito): sin intención de ser jurídico. Por ejemplo, quien escribe una canción por placer no piensa, mientras lo hace, que el ordenamiento legal protege su creación intelectual y le asigna la paternidad de la obra. Los simples hechos lícitos se refieren a los actos voluntarios que no son contrarios al ordenamiento jurídico y que tampoco tienen por fin inmediato la producción de efectos sobre las situaciones y relaciones jurídicas. Esta última es la diferencia esencial entre simple acto lícito y el acto jurídico. En relación a estos últimos, las personas tienen por fin inmediato producir efectos en el mundo del derecho, mientras que en los simples actos lícitos es el derecho el que deriva los efectos del acto con prescindencia de la voluntad o del querer del sujeto, es decir, no se producen ex voluntate, sino ex lege. Los simples actos lícitos no eran específicamente tratados en el CC, pero la doctrina los consideraba como una categoría independiente. Se trata de una elaboración doctrinaria que los admitía en función del principio según el cual todo lo que no está prohibido se encuentra permitido (art. 19 CN). Se encuentran comprendidas aquí una serie de con- ductas que pueden ser o no intrascendentes para el derecho, pero que pueden derivar en la concreción de efectos jurídicos por prescripción legal. Así, por ejemplo, el derecho de pensar, caminar libremente, ejercer alguna facultad; también cabe incluir la apropia- ción de las cosas abandonadas (art. 1947, inc. a.i); la percepción de los frutos (art. 1928). Estos actos, aunque en sí mismos no sean jurídicamente significativos, pueden serlo si, por ejemplo, su ejercicio le es impedido al titular, de manera que provocan la reacción del ordenamiento jurídico, el cual podrá restablecer el derecho vulnerado y sancionar —si fuere el caso— al responsable.
-      - **Acto jurídico:  El acto jurídico es el acto voluntario lícito que tiene por fin inmediato la adquisición, modificación o extinción de relaciones o situaciones jurídicas.**
+      - **_Simple acto lícito_**: sin intención de ser jurídico. Por ejemplo, quien escribe una canción por placer no piensa, mientras lo hace, que el ordenamiento legal protege su creación intelectual y le asigna la paternidad de la obra. Los simples hechos lícitos se refieren a los actos voluntarios que no son contrarios al ordenamiento jurídico y que tampoco tienen por fin inmediato la producción de efectos sobre las situaciones y relaciones jurídicas. Esta última es la diferencia esencial entre simple acto lícito y el acto jurídico. En relación a estos últimos, las personas tienen por fin inmediato producir efectos en el mundo del derecho, mientras que en los simples actos lícitos es el derecho el que deriva los efectos del acto con prescindencia de la voluntad o del querer del sujeto, es decir, no se producen ex voluntate, sino ex lege. Los simples actos lícitos no eran específicamente tratados en el CC, pero la doctrina los consideraba como una categoría independiente. Se trata de una elaboración doctrinaria que los admitía en función del principio según el cual todo lo que no está prohibido se encuentra permitido (art. 19 CN). Se encuentran comprendidas aquí una serie de con- ductas que pueden ser o no intrascendentes para el derecho, pero que pueden derivar en la concreción de efectos jurídicos por prescripción legal. Así, por ejemplo, el derecho de pensar, caminar libremente, ejercer alguna facultad; también cabe incluir la apropia- ción de las cosas abandonadas (art. 1947, inc. a.i); la percepción de los frutos (art. 1928). Estos actos, aunque en sí mismos no sean jurídicamente significativos, pueden serlo si, por ejemplo, su ejercicio le es impedido al titular, de manera que provocan la reacción del ordenamiento jurídico, el cual podrá restablecer el derecho vulnerado y sancionar —si fuere el caso— al responsable.
+      - **_Acto jurídico_**: El acto jurídico es el acto voluntario lícito que tiene por fin inmediato la adquisición, modificación o extinción de relaciones o situaciones jurídicas.
 
 ### Voluntad
 Un hecho jurídico humano es voluntario si tiene:
@@ -83,11 +103,11 @@ Un hecho jurídico humano es voluntario si tiene:
 - **_Intención:_** Se tiene el propósito de realizar un acto.
 - **_Libertad:_** Ha habido ausencia de toda coacción física o moral.
 
-Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecucion/tácita (obvia, no expresa)
+Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecución/tácita (obvia, no expresa)
 
 ### Acto jurídico
 - **Clasificación**:
-  - Positivos o negativos:_** si hace falta realizarlo u omitirlo para que se modificquen situaciones juridicas.
+  - Positivos o negativos:_** si hace falta realizarlo u omitirlo para que se modifiquen situaciones juridicas.
   - Unilaterales o bilaterales:_** Si hace falta 1 o 2 personas para hacerlo.
   - Actos entre vivos y de última voluntad:_** según si la eficacia depende del fallecimiento de aquellos cuya voluntad emanan.
 - **Elementos**:
@@ -108,11 +128,11 @@ Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecuci
 Causan nulidad del acto
 
 - **Error**: falsa noción de una cosa.
-  > Se entiende por “error” el falso conocimiento de la realidad de las cosas. Es un vicio de la voluntad que afecta la intención del sujeto, como elemento interno del acto voluntario; de no haber tenido un falso conocimiento de las cosas, la persona jamás hubiera cele- brado el acto.
-  - **_De hecho:_** aplicar mal la norma. Segel CCyC comentado:
+  > Se entiende por “error” el falso conocimiento de la realidad de las cosas. Es un vicio de la voluntad que afecta la intención del sujeto, como elemento interno del acto voluntario; de no haber tenido un falso conocimiento de las cosas, la persona jamás hubiera celebrado el acto.
+  - **_De hecho:_** aplicar mal la norma. Según el CCyC comentado:
     > Puede recaer sobre algún elemento de hecho, contenido o presupuesto del acto; en tal caso se tratará de error de hecho.
   - **_De derecho:_** haber equivocado el concepto sobre la naturaleza jurídica de la norma.
-  - Causa nulidad cuando es de hecho, escencial y reconocible por el destinatario
+  - Causa nulidad cuando es de hecho, esencial y reconocible por el destinatario
 - **Dolo**: Intención de delinquir. Mentir (Aserción de lo falso o simulación de lo verdadero) u ocultar. Puede ser por acción u omisión. Es esencial y causa la nulidad del acto si:
   - Es grave
     > No cualquier acción dolosa es suficiente para decretar la nulidad de un acto. El ardid, as- tucia o maquinación deben ser idóneos para provocar engaño, porque este constituye la esencia del dolo. No hay dolo cuando el artificio o engaño es menor, una simple picardía, exageración o avivada que cualquiera podría advertir sin ningún esfuerzo extra. El límite de tolerancia radica en la buena fe y en la entidad del engaño para inducir al otro.<br>La gravedad del dolo, esto es, la idoneidad del engaño, debe ser apreciada según las características y condiciones de la víctima. Un ardid que no podría llevar a engaño a una persona sagaz y culta tal vez sea suficiente para inducir a un analfabeto o una persona de pocas luces a celebrar el negocio.<br>Las mismas consideraciones son de aplicación a la omisión dolosa cuando se trata de apreciar su gravedad.
@@ -122,16 +142,23 @@ Causan nulidad del acto
     > Para que pueda acarrear la nulidad del acto, el CCyC exige que el daño causado por la acción dolosa sea importante. Vale decir, la víctima tiene que haber experimentado un perjuicio de cierta magnitud. Este requisito ha sido controvertido por algunos autores, pero el CCyC —al igual que el Código Civil de Vélez, que siguió la postura de Chardón — lo mantiene y guarda relación con el principio de conservación del acto jurídico, al que expresamente y en diferentes disposiciones se hace referencia. De modo que para declarar su ineficacia es preciso que se configuren razones de envergadura tal que justifique apartarse de dicho postulado que tiende a la estabilidad de los negocios y a la seguridad jurídica. En caso de que el dolo no hubiere provocado un daño significativo, la víctima siempre podrá reclamar la reparación de los daños y perjuicios sin necesidad de invalidar el acto jurídico, toda vez que la ilicitud de la conducta siempre se mantiene.<br>El daño que provoca la nulidad puede ser patrimonial o moral. En ambos casos, la importancia del perjuicio debe ser ponderada tomando en consideración la trascendencia o entidad del negocio afectado, con prescindencia del monto económico comprometido.
   - no hubo dolo por ambas partes
     > Es una exigencia del principio de la buena fe. Dice Borda: “quien juega sucio, no tiene derecho a exigir un juego limpio. Si las partes se han engañado mutuamente, la ley se desinteresa de ellas; es bueno que sufran perjuicio de su propia inconducta”.
-- **Fuerza e intimidacion/Violencia**: Amenazas, violencia física o moral, causan nulidad según la relevancia.
+- **Fuerza e intimidación/Violencia**: Amenazas, violencia física o moral, causan nulidad según la relevancia.
 
 #### Vicios de los actos jurídicos
-- **Lesión**: Puede demandarse la [nulidad](#nulidad) o la modificación de los actos jurídicos cuando una de las partes explotando la necesidad, debilidad síquica o inexperiencia de la otra, obtuviera por medio de ellos una ventaja patrimonial evidentemente desproporcionada y sin justificación. 
+- **Lesión**: Puede demandarse la [nulidad](#nulidad) o la modificación de los actos jurídicos cuando una de las partes **_explotando la necesidad, debilidad síquica o inexperiencia de la otra_**, obtuviera por medio de ellos una ventaja patrimonial evidentemente desproporcionada y sin justificación. 
   - Se puede exigir [nulidad](#nulidad) o reajuste
   - Sólo el lesionado o sus herederos pueden ejercer la acción
 - **Simulación**:  se encubre el carácter jurídico de un acto bajo la apariencia de otro.
   - **_Ilícita:_** perjudica a un tercero
   - **_Lícita:_** El acto simulado encubre otro real si no es ilícito ni perjudica a terceros.
   - **_Absoluta_** (el acto jurídico no es totalmente real) vs Relativa (se da apariencia de otro acto jurídico)
+  > A título ejemplificativo, el artículo señala que la simulación puede consistir en encubrir un acto jurídico bajo la apariencia de otro. Así, cuando una compraventa (acto ficticio)encubre una donación (acto real) a efectos de eludir los efectos de esta última. También se refiere a que la simulación puede consistir en “cláusulas que no son sinceras”.
+  > 
+  > Es lo que ocurre cuando se hace figurar un precio menor al real para evadir impuestos. La simulación puede recaer sobre las fechas. Por ejemplo, cuando se posdata o antedata un documento según el interés que tenga la parte en aparentar que el acto se realizó antes o después de determinado momento o etapa.
+  > 
+  > El CCyC menciona también que puede haber simulación por interposición ficticia de personas. En este supuesto participan cuanto menos tres personas. El vendedor vende simuladamente un bien a un testaferro quien a su vez se lo transmite al verdadero destinatario del negocio. Todos los intervinientes participan en la maniobra.
+  > 
+  > En la interposición real, en cambio, no hay simulación, porque el acto está destinado a producir todos sus efectos propios entre las partes. Ello sucede cuando el transmitente ignora que trata con un testaferro y no con el verdadero interesado en el negocio y, por tanto, no participa del acuerdo simulatorio que es esencial para configurar una interposición ficticia de personas.
 - **Fraude**: se establecen condiciones para que el acreedor pueda solicitar revocación:
   - Deudor insolvente
   - El acto del deudor es perjuicio para los acreedores
