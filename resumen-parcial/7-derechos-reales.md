@@ -30,8 +30,8 @@
         4. [Expropiación (≠ confiscación)](#expropiación--confiscación)
 
 ## Derechos patrimoniales:
-sirven para la satisfacción de las necesidades económicas del titular. Son apreciables pecuniariamente.
-- Derechos Personales o Creditorios:a exigir que una persona determinada cumpla con una obligación.
+Sirven para la satisfacción de las necesidades económicas del titular. Son apreciables pecuniariamente.
+- Derechos Personales o Creditorios: a exigir que una persona determinada cumpla con una obligación.
 - Derechos Reales
 - Derechos Intelectuales
 
@@ -54,24 +54,24 @@ La comunidad está obligada a respetar esa facultad de ejercer sus derechos en r
 - **Derecho de preferencia**: es el que le permite al titular del derecho real satisfacer su prestación en primer lugar, con relación a cualquier otro titular del derecho.
 
 ## Tipos de derechos reales
-- Sobre cosa propia:
-  - **el dominio;**
-  - **el condominio;**
-  - **la propiedad horizontal;**
-  - **los conjuntos inmobiliarios;**
-  - **el tiempo compartido;**
-  - **el cementerio privado;**
-  - **la superficie;**
-- Sobre cosa ajena
-  - Principales
-    - **el usufructo;**
-    - **el uso;**
-    - **la habitación;**
-    - **la servidumbre;**
-  - Accesorios
-    - **la hipoteca;**
-    - **la anticresis;**
-    - **la prenda.**
+- **Sobre cosa total o parcialmente propia:**
+  - el dominio;
+  - el condominio;
+  - la propiedad horizontal;
+  - los conjuntos inmobiliarios;
+  - el tiempo compartido;
+  - el cementerio privado;
+  - la superficie;
+- **Sobre cosa ajena**
+  - **Principales**
+    - el usufructo;
+    - el uso;
+    - la habitación;
+    - la servidumbre;
+  - **Accesorios**
+    - la hipoteca;
+    - la anticresis;
+    - la prenda.
 
 ## Derechos reales sobre cosas registrables y no registrables.
 Los derechos reales recaen sobre cosas registrables cuando la ley requiere la inscripción de los títulos en el respectivo registro a los efectos que correspondan.
@@ -121,6 +121,9 @@ El dominio es el derecho real en virtud del cual **una cosa se encuentra sometid
 - **_Dominio perfecto:_** otorga todas las facultades de usar, gozar y disponer material y jurídicamente de una cosa, dentro de los límites previstos por la ley (no hay deudas asociadas a la cosa). El dominio se presume perfecto hasta que se pruebe lo contrario .
 - **_Dominio imperfecto:_** si está sometido a condición o plazo resolutorios, o si la cosa está gravada con cargas reales.
 
+> En la actualidad, los conceptos de propiedad y dominio dejaron de ser sinónimos y queda claro que entre ellos existe una relación de género y especie: la propiedad es el género; y el dominio, una de sus especies. De este modo, la palabra propiedad es tomada para referirse a todos los derechos susceptibles de apreciación pecuniaria, en tanto el dominio es el derecho de propiedad sobre las cosas. Así, es posible hablar de propiedad sobre las cosas (el dominio), propiedad literaria, artística, científica, industrial, etc.
+> fuente: CCyC comentado
+
 #### Características:
 - **Perpetuidad**: No tiene límite en el tiempo y subsiste con independencia de su ejercicio.
 - **Exclusividad**: El dominio no puede tener más de un titular
@@ -167,8 +170,32 @@ Cada condómino, conjunta o individualmente, puede usar y gozar de la cosa comú
 #### Convenio de uso y goce. 
 Los condóminos pueden convenir el uso y goce alternado de la cosa común o que se ejercite de manera exclusiva y excluyente sobre determinadas partes materiales.
 
+> Un condominio, más comúnmente conocido como condominio, es un complejo de propiedades que pertenece a un individuo. Los edificios residenciales son un ejemplo de condominios. 
+> 
+> El propietario de un condominio es dueño del espacio de aire dentro de su condominio, compartiendo un interés de propiedad en la propiedad comunitaria, como el piso, las paredes, las aceras, las escaleras y las áreas exteriores.
+> 
+> Un requisito general del propietario de un condominio son los pagos mensuales a una Asociación de propietarios o asamblea, que está a cargo del mantenimiento de la propiedad.
+> 
+> La principal diferencia entre un apartamento y un condominio es la propiedad, donde generalmente se renta o alquila un apartamento, mientras que se posee un condominio.
+> ***
+> La gran diferencia entre un condominio y un apartamento es que generalmente eres dueño de un condominio, mientras que rentarías un apartamento. Los edificios de apartamentos suelen ser propiedad de un solo propietario (como una empresa de administración de propiedades) y los edificios se utilizan únicamente con fines de alquiler. Sin embargo, los condominios que se alquilan a inquilinos a veces se denominan apartamentos.
+>
+> Por lo tanto, la única diferencia notable entre un condominio y un apartamento es el tema de quien posee la propiedad. Normalmente un condominio es algo que usted posee, mientras que un apartamento es la parte que se alquila.
+> [fuente](https://hogare.mx/blog/que-es-un-condominio-y-como-funciona/)
 ### Propiedad Horizontal 
 Es el derecho real sobre un inmueble propio que otorga a su titular facultades de uso, goce y disposición material y jurídica que se ejercen sobre partes privativas y sobre partes comunes de un edificio. Las diversas partes del inmueble así como las facultades que sobre ellas se tienen son interdependientes y conforman un todo no escindible.
+
+> Se llama generalmente "propiedad horizontal" a la que consiste en pisos o departamentos de un edificio, pertenecientes a diversos dueños. No es un condominio, porque cada uno es propietario de su apartamento. No es el caso de simples propiedades contiguas, porque existen partes comunes, comenzando por el suelo. No se trata de un caso especialmente complejo de relaciones de vecindad, sino de algo más, porque los servicios comunes, la administración, etc., tienen modalidades especiales y pueden originar una sociedad para ese efecto.
+> 
+> Elemento característico de la propiedad horizontal es el de que cada piso o departamento tenga su salida o acceso independiente a lugar público: calle, plaza, etc. Igualmente es propio de esta figura jurídica, que las partes comunes del edificio, son inseparables de la titularidad de los diversos apartamentos, de modo que no se puede disponer de éstos sin hacerlo también respecto de las partes comunes.
+> 
+> Muy variados nombres se han propuesto para este fenómeno jurídico, tales como "propiedad por pisos", "propiedad cúbica", "propiedad por volúmenes", etc., pero en nuestro país y en toda América ha predominado la denominación de "propiedad horizontal".
+> 
+> El término "propiedad horizontal" sugiere la posibilidad de que existan inmuebles superpuestos, pertenecientes a diversos propietarios, contrariamente a la antigua concepción romana, que consideraba al dueño del suelo, dueño de todo lo que esté sobre él sin límites de altura, y dueño del subsuelo, sin límites de profundidad. Sin embargo, el concepto de propiedad horizontal, no supone necesariamente la superposición de pisos, aunque esto sea lo más corriente; también existe propiedad horizontal si los distintos departamentos forman un solo edificio, aunque sea de una sola planta o nivel, pero siempre que los diversos propietarios individuales sean comuneros de partes comunes, tales como el suelo, el techo, las instalaciones, cuartos de portería, puerta general de la casa, etc.
+> 
+> Este concepto de la propiedad horizontal se recoge en los dos primeros artículos de nuestra Ley. El primero dice: "Los diversos pisos de un edificio, los departamentos o locales en los que se divide cada piso, cuando sean independientes y tengan salida a la vía pública directamente o por un pasaje común, podrán pertenecer a distintos propietarios". En el segundo se dice: "Cada propietario será dueño exclusivo de su piso, departamento o local y comunero de los bienes destinados al uso común".
+> 
+> [fuente](https://www.monografias.com/trabajos91/propiedad-horizontal/propiedad-horizontal.shtml)
 
 ### Conjuntos inmobiliarios
 Son conjuntos inmobiliarios los clubes de campo, barrios cerrados o privados, parques industriales, empresariales o náuticos, o cualquier otro emprendimiento urbanístico independientemente del destino de vivienda permanente o temporaria, laboral, comercial o empresarial que tenga, comprendidos asimismo aquellos que contemplan usos mixtos, con arreglo a lo dispuesto en las normas administrativas locales.
@@ -182,15 +209,13 @@ Emprendimiento urbanístico.
 
 Deben someterse a la normativa de propiedad horizontal.
 
+### Tiempo compartido
+> El tiempo compartido nace como un procedimiento para comercializar cualquier bien inmueble destinado a alojar turistas en sus períodos vacacionales y consiste esencialmente, en dividir por periodos de uso una unidad. La más común es la división por semanas, de tal manera que hay 52 periodos de uso por habitación, donde la división implica la copropiedad de cada unidad y sus copropietarios absorben en la parte que cada uno representa, los gastos de conservación y mantenimiento del bien que se trate.
+> 
+> [fuente](https://www.monografias.com/trabajos16/tiempo-compartido/tiempo-compartido.shtml)
+
 ### Superficie
 El derecho de superficie es un derecho real temporario, que se constituye **sobre un inmueble ajeno**, que otorga a su titular la facultad de uso, goce y disposición material y jurídica del derecho de plantar, forestar o construir, o sobre lo plantado, forestado o construido en el terreno, el vuelo o el subsuelo, según las modalidades de su ejercicio y plazo de duración establecidos en el título suficiente para su constitución y dentro de lo previsto en este Título y las leyes especiales.
-
-Es un derecho real temporario, que se constituye sobre un inmueble ajeno, que otorga a su titular la facultad de uso, goce y disposición de lo
-- plantado
-- forestado
-- construido
-
-que haya hecho él o que ya esté presente; según las modalidades de su ejercicio y plazo de duración establecidos en el título suficiente para su constitución.
 
 ### Usufructo
 Usufructo es el derecho real de usar, gozar y disponer jurídicamente de un bien ajeno, sin alterar su sustancia. Hay alteración de la sustancia, si es una cosa, cuando se modifica su materia, forma o destino. 
@@ -199,9 +224,7 @@ Usufructo es el derecho real de usar, gozar y disponer jurídicamente de un bien
 Usufructo limitado en la extensión y/o duración.
 
 ### Habitación
-Morar en un inmueble ajeno construido, o en parte material de él, sin alterar su sustancia.
-El derecho real de habitación sólo puede constituirse a favor de
-persona humana.
+Morar en un inmueble ajeno construido, o en parte material de él, sin alterar su sustancia. El derecho real de habitación solo puede constituirse a favor de persona humana.
 
 ### Servidumbre
 Se establece entre dos inmuebles y concede al titular del inmueble dominante determinada utilidad sobre el inmueble sirviente ajeno.

@@ -147,7 +147,7 @@ Incluso si el Estado debe no pagar por tema de multas o lo que sea, siempre debe
 - No se le reconoce al contratista el lucro cesante (beneficio dejado de percibir por las obras no ejecutadas), pero sí gastos improductivos.
 
 
-## suspensiones unilaterales:
+## Suspensiones unilaterales:
 ### por parte del comitente:
 - se reconoce únicamente el daño emergente. no se reconoce concepto indemnizatorio alguno con relación al beneficio no percibido por las obras no ejecutadas (lucro cesante)
 - se devuelve fondo de garantía del contratista

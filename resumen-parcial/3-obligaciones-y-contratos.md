@@ -10,13 +10,15 @@
   - Tradicionales
     - Contrato (varias personas se ponen de acuerdo sobre una declaración de voluntad común destinada a reglar sus derechos)
     - Cuasicontrato (contrato sin consentimiento de una de las partes)
+      > hechos voluntarios y lícitos que obligan a las partes sin que haya existido previamente un acuerdo de voluntades. Ej.:
+      > - El cobro de lo indebido: cuando una persona paga, por error, a otra, la Ley obliga a que el receptor de esos fondos debe restituirlos de forma inmediata.
     - Delitos
     - Cuasidelitos
     - La Ley (sentencia o fallo es su aplicación)
   - Modernas
     - Abuso de derecho
     - Enriquecimiento sin causa
-    - Voluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador)
+    - Voluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador, concurso de belleza con premio, recompensa por búsqueda de un perro perdido).
 
 ## Requisitos:
 - debe ser material y jurídicamente posible
@@ -66,8 +68,8 @@ La obligación da derecho al acreedor a:
 - Medios que satisfacen al acreedor:
   - **Pago**: cumplimiento de la prestación.
   - **Compensación**: se compensan las deudas del acreedor y el deudor porque hay otra/s deuda/s.
-  - **Novación**: La obligación es reemplazada o renovada.
   - **Confusión**: Acreedor y deudor pasan a ser la misma persona.
+  - **Novación**: La obligación es reemplazada o renovada.
   - **Dación en pago**: El acreedor acepta una cosa distinta a la acordada.
 - Medios que no satisfacen al acreedor:
   - **Renuncia o remisión de deuda**: El acreedor decide renunciar a la prestación.
@@ -144,8 +146,12 @@ Los contratos no pueden perjudicar a terceros.
 
 Los contratos mantienen su validez mientras no se extingan las obligaciones que ellos crean.
 ### Excepción de incumplimiento
+Es una cláusula accesoria.
+
 Se presentan en los contratos bilaterales. Una de las partes no podrá demandar su cumplimiento si no probase haberlo ella cumplido u ofreciese cumplirlo, o que su obligación es a plazo. Se da cuando las prestaciones están interrelacionadas y son simultáneas. Debe referirse a la obligación principal y no a las accesorias.
 ### Señal o arras (seña)
+Es una cláusula accesoria.
+
 Es un elemento accesorio de los contratos. Se da para garantizar el cumplimiento de las obligaciones emergentes de un contrato. Es muy importante en materia comercial, ya que la entrega de la señal tiene carácter confirmatorio.
 ### Cláusulas accesorias
 - **_Pacto comisorio explicito_**: Es una cláusula mediante la cual cada una de las partes se reserva la facultad de no
@@ -164,12 +170,11 @@ debe ser sobre la obligación principal.
     Existen dos formas de ejecución del pacto comisorio cuando es tácito:
     1. **_Extrajudicialmente_**: previa intimación de cumplimiento en un plazo no inferior a quince días
     2. **_Judicialmente_**: mediante demanda, sin necesidad de intimación
-- **_Condición resolutoria_**: Es una cláusula accesoria que tiene lugar cuando pueda existir un motivo que impida
-cumplir la prestación por una causa no imputable a ninguna de las partes.
+- **_Condición resolutoria_**: Es una cláusula accesoria que tiene lugar cuando pueda existir un motivo que impida cumplir la prestación por una causa no imputable a ninguna de las partes.
+- **_Condición suspensoria_**: Se determina una pactación expresa de la suspensión de las obligaciones ante un hecho fortuito e incierto
 - **_Cláusula penal_**: Es una cláusula accesoria que tiene lugar en caso de incumplimiento de la obligación
 principal y es inmutable, una vez pactada no puede modificarse su valor salvo que se
 considere excesivamente elevado el monto pactado.
 
     Resarce por daños y perjuicios a una ejecución tardía.
 - **_Cláusula Arbitral_**: Se establece la vía arbitral para soluciones de divergencias en la interpretación del contrato
-- **_Condición Suspensoria_**: Se determina una pactación expresa de la suspensión de las obligaciones ante un hecho fortuito e incierto

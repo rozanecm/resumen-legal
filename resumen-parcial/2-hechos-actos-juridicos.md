@@ -1,20 +1,20 @@
 # Sujetos, Objetos, Hechos y Actos Jurídicos
 
-1. Sujeto del derecho
-    1. Atributos de una persona humana
-    2. Persona jurídica
-        1. Atributos de la persona jurídica (todo en el estatuto)
-2. Objeto del derecho
-    1.  Tipos de cosas
-3. Hecho jurídico
-    1. Voluntad
-    2. Acto jurídico
-        1. Vicios de la voluntad
-        2. Vicios de los actos jurídicos
-        3. Nulidad
-        1. Efecto
-        2. Confirmación del acto jurídico
-    3. Actos ilícitos
+1. [Sujeto del derecho](#sujeto-del-derecho)
+    1. [Atributos de una persona humana](#atributos-de-una-persona-humana)
+    2. [Persona jurídica](#persona-jurídica)
+        1. [Atributos de la persona jurídica (todo en el estatuto)](#atributos-de-la-persona-jurídica-todo-en-el-estatuto)
+2. [Objeto del derecho](#objeto-del-derecho)
+    1. [ Tipos de cosas](#tipos-de-cosas)
+3. [Hecho jurídico](#hecho-jurídico)
+    1. [Voluntad](#voluntad)
+    2. [Acto jurídico](#acto-jurídico)
+        1. [Vicios de la voluntad](#vicios-de-la-voluntad)
+        2. [Vicios de los actos jurídicos](#vicios-de-los-actos-jurídicos)
+        3. [Nulidad](#nulidad)
+        1. [Efecto](#efecto)
+        2. [Confirmación del acto jurídico](#confirmación-del-acto-jurídico)
+    3. [Actos ilícitos](#actos-ilícitos)
     
 ## Sujeto del derecho
 - **_Persona:_** Todos los entes susceptibles de adquirir derechos y contraer obligaciones.
@@ -107,16 +107,16 @@ Manifestación de la voluntad: oralmente/por escrito/signos inequívocos/ejecuci
 
 ### Acto jurídico
 - **Clasificación**:
-  - Positivos o negativos:_** si hace falta realizarlo u omitirlo para que se modifiquen situaciones juridicas.
-  - Unilaterales o bilaterales:_** Si hace falta 1 o 2 personas para hacerlo.
-  - Actos entre vivos y de última voluntad:_** según si la eficacia depende del fallecimiento de aquellos cuya voluntad emanan.
+  - **_Positivos o negativos:_** si hace falta realizarlo u omitirlo para que se modifiquen situaciones juridicas.
+  - **_Unilaterales o bilaterales:_** Si hace falta 1 o 2 personas para hacerlo.
+  - **_Actos entre vivos y de última voluntad:_** según si la eficacia depende del fallecimiento de aquellos cuya voluntad emanan.
 - **Elementos**:
   - **_Sujeto:_** debe ser capaz y tener voluntad
   - **_Objeto:_** El objeto del acto jurídico no debe ser un hecho imposible o prohibido por la ley, contrario a la moral, a las buenas costumbres, al orden público o lesivo de los derechos ajenos o de la dignidad humana. Tampoco puede ser un bien que por un motivo especial se haya prohibido que lo sea. 
   - **_Causa:_** fin inmediato determinante de la voluntad. Existe aunque no esté expresada.
-  - ​ Forma​ : la forma es un conjunto de prescripciones de la ley, respecto de las solemnidades que deben observarse al tiempo de la formación del acto jurídico, como la escritura del acto, la presencia de testigos, que el acto sea hecho por escribano público o por un oficial público, o con el concurso del juez del lugar.
+  - **_Forma:_** la forma es un conjunto de prescripciones de la ley, respecto de las solemnidades que deben observarse al tiempo de la formación del acto jurídico, como la escritura del acto, la presencia de testigos, que el acto sea hecho por escribano público o por un oficial público, o con el concurso del juez del lugar.
     - a.​ ​ Formales: deben cumplir las formas mencionadas.
-    - b.​ ​ No formales: si no se designa en en el CC una forma para el acto jurídico en cuestión, el mismo es no formal.
+    - b.​ ​ No formales: si no se designa en el CC una forma para el acto jurídico en cuestión, el mismo es no formal.
 - **Instrumento**: Son documentos que registran el otorgamiento de actos jurídicos.
   - **Instrumentos públicos**: requieren intervención de oficial público
   - **Instrumentos privados**: no lo requieren.

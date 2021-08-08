@@ -95,7 +95,7 @@ La convocatoria está dirigida a interesados locales (domicilio o sede principal
 La convocatoria se extienda a interesados y oferentes del exterior (sede principal de sus negocios en el extranjero y no tienen sucursal en el país)
 
 ### Contratación directa
-- Monto menor a $75.000
+- Monto menor a SETENTA Y CINCO MÓDULOS (M 75).
 - Obras científicas, técnicas o artísticas
 - Por exclusividad
 - Es desierta o fracasada una licitación o concurso anterior
