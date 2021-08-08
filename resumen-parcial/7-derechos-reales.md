@@ -161,8 +161,7 @@ El dominio es el derecho real en virtud del cual **una cosa se encuentra sometid
 
 ### Condominio
 Condominio es el derecho real de propiedad sobre una cosa que pertenece en común a **_varias personas_** y que corresponde a cada una por una parte indivisa. Las partes de los condóminos se presumen iguales, excepto que la ley o el título dispongan otra proporción.
-> la cuota
-no se identifica con ninguna parte materialmente determinada de ese objeto.
+> la cuota no se identifica con ninguna parte materialmente determinada de ese objeto.
 
 #### Uso y goce de la cosa.
 Cada condómino, conjunta o individualmente, puede usar y gozar de la cosa común sin alterar su destino. No puede deteriorarla en su propio interés u obstaculizar el ejercicio de iguales facultades por los restantes condóminos.
@@ -170,18 +169,6 @@ Cada condómino, conjunta o individualmente, puede usar y gozar de la cosa comú
 #### Convenio de uso y goce. 
 Los condóminos pueden convenir el uso y goce alternado de la cosa común o que se ejercite de manera exclusiva y excluyente sobre determinadas partes materiales.
 
-> Un condominio, más comúnmente conocido como condominio, es un complejo de propiedades que pertenece a un individuo. Los edificios residenciales son un ejemplo de condominios. 
-> 
-> El propietario de un condominio es dueño del espacio de aire dentro de su condominio, compartiendo un interés de propiedad en la propiedad comunitaria, como el piso, las paredes, las aceras, las escaleras y las áreas exteriores.
-> 
-> Un requisito general del propietario de un condominio son los pagos mensuales a una Asociación de propietarios o asamblea, que está a cargo del mantenimiento de la propiedad.
-> 
-> La principal diferencia entre un apartamento y un condominio es la propiedad, donde generalmente se renta o alquila un apartamento, mientras que se posee un condominio.
-> ***
-> La gran diferencia entre un condominio y un apartamento es que generalmente eres dueño de un condominio, mientras que rentarías un apartamento. Los edificios de apartamentos suelen ser propiedad de un solo propietario (como una empresa de administración de propiedades) y los edificios se utilizan únicamente con fines de alquiler. Sin embargo, los condominios que se alquilan a inquilinos a veces se denominan apartamentos.
->
-> Por lo tanto, la única diferencia notable entre un condominio y un apartamento es el tema de quien posee la propiedad. Normalmente un condominio es algo que usted posee, mientras que un apartamento es la parte que se alquila.
-> [fuente](https://hogare.mx/blog/que-es-un-condominio-y-como-funciona/)
 ### Propiedad Horizontal 
 Es el derecho real sobre un inmueble propio que otorga a su titular facultades de uso, goce y disposición material y jurídica que se ejercen sobre partes privativas y sobre partes comunes de un edificio. Las diversas partes del inmueble así como las facultades que sobre ellas se tienen son interdependientes y conforman un todo no escindible.
 
@@ -223,6 +210,12 @@ Usufructo es el derecho real de usar, gozar y disponer jurídicamente de un bien
 ### Uso
 Usufructo limitado en la extensión y/o duración.
 
+> El uso: puede constituirse solo a persona humana (art.2154 CCC) (el usufructo también a personas jurídicas). El usuario no puede constituir derechos reales sobre la cosa recibida. El uso es ejecutable solamente por los frutos que produce, cuando excedan las necesidades del usuario y su familia; o sea es embargable el excedente de frutos necesarios para el usuario y su familia.
+> 
+> El uso es ejecutable solamente por los frutos que produce, cuando excedan las necesidades del usuario y su familia; o sea es embargable el excedente de frutos necesarios para el usuario y su familia.
+> 
+> [fuente](https://aldiaargentina.microjuris.com/2018/09/20/alternativas-al-usufructo/)
+
 ### Habitación
 Morar en un inmueble ajeno construido, o en parte material de él, sin alterar su sustancia. El derecho real de habitación solo puede constituirse a favor de persona humana.
 
@@ -254,34 +247,51 @@ Concepto. La anticresis es el derecho real de garantía que recae sobre cosas re
 
 Legitimación. Pueden constituir anticresis los titulares de los derechos reales de dominio, condominio, propiedad horizontal, superficie y usufructo.
 
-Segun economipedia:
->Es inviable efectuar varios contratos de anticresis sobre un mismo bien porque se requiere su desposesión. Para explicarlo de otro modo, el anticresista no podría entregar simultáneamente el inmueble a más de un acreedor En cambio, sí es factible constituir respecto a un mismo activo varias hipotecas porque no es necesario que el deudor se desprenda de su propiedad. Lo anterior es quizás una de las razones por las que los contratos de anticresis son menos populares que las hipotecas. Estas últimas permiten que el deudor siga ocupando su vivienda.
+Según economipedia:
+>Es inviable efectuar varios contratos de anticresis sobre un mismo bien porque se requiere su desposesión. Para explicarlo de otro modo, el anticresista no podría entregar simultáneamente el inmueble a más de un acreedor. En cambio, sí es factible constituir respecto a un mismo activo varias hipotecas porque no es necesario que el deudor se desprenda de su propiedad. Lo anterior es quizás una de las razones por las que los contratos de anticresis son menos populares que las hipotecas. Estas últimas permiten que el deudor siga ocupando su vivienda.
 
 #### Prenda
 Concepto. La prenda es el derecho real de garantía sobre cosas muebles no registrables o créditos instrumentados. Se constituye por el dueño o la totalidad de los copropietarios, por contrato formalizado en instrumento público o privado y tradición al acreedor prendario o a un tercero designado por las partes. Esta prenda se rige por las disposiciones del presente Capítulo.
 
 Prenda con registro. Asimismo, puede constituirse prenda con registro para asegurar el pago de una suma de dinero, o el cumplimiento de cualquier clase de obligaciones a las que los contrayentes le atribuyen, a los efectos de la garantía prendaria, un valor consistente en una suma de dinero, sobre bienes que deben quedar en poder del deudor o del tercero que los haya prendado en seguridad de una deuda ajena. Esta prenda se rige por la legislación especial.
+>Comparando la anticresis con la hipoteca y la prenda, se pueden señalar las siguientes diferencias:
+> 
+> 1. En cuanto al objeto: la anticresis recae sobre cosas inmuebles y muebles registrables. La hipoteca sobre cosas inmuebles. La prenda sobre cosas muebles no registrables y créditos instrumentados.
+> 
+> 2. En cuanto a la posesión de la cosa: en la anticresis, como en la prenda, ella pasa al acreedor o a un tercero. En la hipoteca, queda en poder del constituyente.
+> 
+> 3. En cuanto a los frutos: la percepción de ellos por el acreedor es de la esencia del derecho, en tanto que en la hipoteca no existe tal cosa, y en la prenda es la excepción.
+> 
+> 4. La anticresis tiene un plazo máximo de duración y también es menor el plazo de caducidad de la inscripción que el de la hipoteca. En la prenda no hay registro.
+> 
+> 5. El usufructuario puede constituir anticresis, pero no hipoteca ni prenda. Esta última solo por el dueño o los condóminos.
+> 
+> 6. En caso de ejecución, el acreedor prendario, bajo ciertas condiciones, puede adjudicarse la cosa prendada (art. 2229, CCyCo.).
+> 
+> 7. Las facultades de uso y goce son regla en la anticresis y excepción en la prenda.
+> 
+> 8. El acreedor anticresista puede dar la cosa en arrendamiento; en la prenda, tal facultad debe ser consentida por el constituyente. No existe en la hipoteca para el acreedor.
+> 
+> 9. Aunque por aplicación del artículo 2189 del Código pueda entenderse aplicable a este caso el nacimiento posterior del crédito, se ha considerado necesario que el crédito esté individualizado ab initio, so pena de impedir que se concrete la imputación de los frutos que se perciben.
+> 
+> Dejando de lado las diferencias, cabe remarcar similitudes, ya que las tres son derechos reales de garantía y, como vimos, deben cumplir los recaudos previstos por el Código para tales derechos (vgr.: especialidad, indivisibilidad, accesoriedad, subrogación, etc.).
+> 
+> Se ha sostenido que la anticresis se distingue del usufructo por el hecho de que, mientras este último concede a su titular el disfrute de la cosa sin alterar la sustancia, la anticresis impone un deber concreto de servirse de los frutos para imputarlos al pago de una deuda. El usufructuario tiene el uso y el goce de la cosa, mientras que el acreedor anticresista tiene el deber de hacer redituable a la cosa objeto del derecho real de garantía.
+> 
+> [fuente](https://www.erreius.com/actualidad/14/civil-persona-y-patrimonio/Nota/886/breve-panorama-sobre-la-regulacion-actual-del-derecho-real-de-anticresis)
 
 #### Expropiación (≠ confiscación)
 Limitación al dominio. Prevista en la Constitución Nacional:
-Art. 17: “La propiedad es inviolable, y ningún habitante de la
-Nación puede ser privado de ella, sino en virtud de sentencia
-fundada en ley. La expropiación por causa de utilidad pública,
-debe ser calificada por ley y previamente indemnizada”.
- Dado que es indemnizable y no recurrible en cuanto a sus
-efectos, puede decirse que la expropiación dispuesta por ley tiene
-las características de una venta forzosa de un bien.
- Incluye derechos, los cuales pueden ser también expropiados.
- Puede tratarse tanto de bienes de particulares como así los de
-los estados provinciales.
- Ley 21499/77: se refiere a las expropiaciones en el orden
-nacional. Las provincias dictan sus propias disposiciones.
- Producida la expropiación, con sus indemnización
-correspondiente, se considera extinguido el dominio sobre el bien
-expropiado.
- La Constitución limita, aunque preventivamente, el principio
-de inviolabilidad de la propiedad privada.
- Al requerir que las razones para expropiar sean “de utilidad
-pública” (la Constitución y la ley) se introduce una importante
-protección de los bienes en general, evitando avances sobre la
-propiedad privada.
+
+Art. 17: “La propiedad es inviolable, y ningún habitante de la Nación puede ser privado de ella, sino en virtud de sentencia fundada en ley. La expropiación por causa de utilidad pública, debe ser calificada por ley y previamente indemnizada”.
+- Dado que es indemnizable y no recurrible en cuanto a sus efectos, puede decirse que la expropiación dispuesta por ley tiene las características de una venta forzosa de un bien.
+- Incluye derechos, los cuales pueden ser también expropiados.
+- Puede tratarse tanto de bienes de particulares como así los de los estados provinciales.
+- Ley 21499/77: se refiere a las expropiaciones en el orden nacional. Las provincias dictan sus propias disposiciones.
+- Producida la expropiación, con su indemnización correspondiente, se considera extinguido el dominio sobre el bien expropiado.
+- La Constitución limita, aunque preventivamente, el principio de inviolabilidad de la propiedad privada.
+- Al requerir que las razones para expropiar sean “de utilidad pública” (la Constitución y la ley) se introduce una importante protección de los bienes en general, evitando avances sobre la propiedad privada.
+
+> “La expropiación es un instituto del derecho público argentino, mediante el cual se produce el traslado de la propiedad de un bien declarado de interés público, de su propietario original al Estado Nacional. Y éste, como contraprestación, abona un monto por el bien recibido que se considera una indemnización y no el pago en una operación de compraventa”, explicó Verónica Cicchi, abogada especialista en derecho penal económico. La confiscación en cambio “está prohibida en nuestro derecho, y consiste en la perdida compulsiva de la propiedad a favor del estado sin contraprestación, ni indemnización alguna”.
+> 
+> [fuente](https://chequeado.com/hilando-fino/ique-confiscacion/)
