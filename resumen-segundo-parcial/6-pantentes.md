@@ -13,11 +13,11 @@
   - Debe tener uso práctico.
   - Aplicación industrial: debe poder ser aplicado o fabricado en serie a escala industrial.
   - Debe ser totalmente novedoso en el mundo al momento de la solicitud.
-  - Paso inventivo: no debe poder deducirse facilmente.
+  - Paso inventivo: no debe poder deducirse fácilmente.
   - Patentable en conformidad al derecho (no debe ser ilegal ni algo que no se pueda patentar ni perjudicial para la humanidad)
-- **Convenio de parís**
+- **Convenio de París**
   Si presentás una patente en un país miembro, la podés presentar en los demás países miembros como si fuera la fecha en la cual la presentaste en el primero, **en el plazo de 1 año**.
-- **PCT: Patent Cooperation Treaty** patentás simultaneamente en todos los países. La Argentina no forma parte.
+- **PCT: Patent Cooperation Treaty** patentás simultáneamente en todos los países. La Argentina no forma parte.
 
 # Modelo de utilidad
 - El requisito de actividad inventiva es más laxo o inexistente. Es una combinación de invenciones o mejora, no una invención.

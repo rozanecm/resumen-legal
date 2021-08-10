@@ -58,7 +58,7 @@ La obligación da derecho al acreedor a:
   > Obligaciones concurrentes son aquellas en las que varios deudores deben el mismo objeto en razón de causas diferentes.
 - **_Disyuntivas_**:
   > Si la obligación debe ser cumplida por uno de varios sujetos, excepto estipulación en contrario, el acreedor elige cuál de ellos debe realizar el pago. Mientras el acreedor no demande a uno de los sujetos, cualquiera de ellos tiene derecho de pagar. El que paga no tiene derecho de exigir contribución o reembolso de los otros sujetos obligados.
-- Principales vs. accesorias: Las accesorias son contraídas para asegurar el cumplimiento de la principal. La principal es la razón de la existencia de las accesorias.
+- **_Principales vs. accesorias_**: Las accesorias son contraídas para asegurar el cumplimiento de la principal. La principal es la razón de la existencia de las accesorias.
   > Obligaciones **principales** son aquellas cuya existencia, régimen jurídico, eficacia y desarrollo funcional son autónomos e independientes de cualquier otro vínculo obligacional.
   > 
   > Los derechos y obligaciones son **accesorios** a una obligación principal cuando dependen de ella en cualquiera de los aspectos precedentemente indicados, o cuando resultan esenciales para satisfacer el interés del acreedor.

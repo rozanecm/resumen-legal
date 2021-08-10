@@ -85,7 +85,6 @@ La justicia presume que el Estado tiene razón, por lo tanto aquí tiene que dem
   - **Riguroso**: No admite modificaciones, en caso de producirse un cambio hay que realizar otros contactos.
   - **Relativo**: Admite modificaciones por imprevistos o adicionales.
 
-
 ## Garantías
 - **De oferta** (Se constituye junto con la presentación de la Oferta. Generalmente se lo hace a través de “Cauciones”.) (1% del monto ofertado) OBJETO: MANTENIMIENTO DE LA OFERTA.
 - **Contractual** (Se constituye al momento de firmar la CONTRATA) (5% monto adjudicado) OBJETO: RESPONDER ANTE EVENTUALES INCUMPLIMIENTOS CONTRACTUALES.

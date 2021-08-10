@@ -4,11 +4,11 @@
 
 ![tabla gral](res/5-tabla-propiedad-intelectual.png)
 
-- Decreto 165/94 => Modifica concepto de propiedad intelectual en cuanto a software 
-- Ley 25036 => modifica y amplía normativa de propiedad intelectual (Ley 11723)
-- INPI = Instituto Naciona de la Propiedad Intelectual
+- Decreto 165/94 → Modifica concepto de propiedad intelectual en cuanto a software 
+- Ley 25036 → modifica y amplía normativa de propiedad intelectual (Ley 11723)
+- INPI = Instituto Nacional de la Propiedad Intelectual
 
-- La ley protege "Toda producción científica, literaria, artística o didáctica sea cual fuere el procedimiento de reproducción".
+- La ley protege “Toda producción científica, literaria, artística o didáctica sea cual fuere el procedimiento de reproducción”.
   - escritos de toda naturaleza y extensión, programas de computación fuente y objeto; compilaciones de datos o de otros materiales; 
   - obras dramáticas y/o musicales, 
   - cinematográficas, coreográficas y pantomímicas; 
@@ -66,7 +66,7 @@
 - No podés publicar una imagen de una persona sin permiso de ella (o sus parientes si murió), salvo para fines científicos o culturales, o hechos en público.
 - **Contrato de edición:**
   - Titular de derecho de propiedad: autoriza al editor, o puede cederle los derechos
-  - Editor: se compromete a reproducir, evnder y difundir la obra
+  - Editor: se compromete a reproducir, vender y difundir la obra
 - **Transferencia del derecho**
   - La validez sigue siendo por el plazo que indica la ley
   - El autor conserva el derecho a exigir fidelidad de su título y texto y la mención de su nombre 

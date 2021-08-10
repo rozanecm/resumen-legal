@@ -18,12 +18,13 @@
         2. [Convenio de uso y goce.](#convenio-de-uso-y-goce) 
     3. [Propiedad Horizontal](#propiedad-horizontal) 
     4. [Conjuntos inmobiliarios](#conjuntos-inmobiliarios)
-    5. [Superficie](#superficie)
-    6. [Usufructo](#usufructo)
-    7. [Uso](#uso)
-    8. [Habitación](#habitación)
-    9. [Servidumbre](#servidumbre)
-    10. [Derechos reales de garantía](#derechos-reales-de-garantía)
+    5. [Tiempo compartido](#tiempo-compartido)
+    6. [Superficie](#superficie)
+    7. [Usufructo](#usufructo)
+    8. [Uso](#uso)
+    9. [Habitación](#habitación)
+    10. [Servidumbre](#servidumbre)
+    11. [Derechos reales de garantía](#derechos-reales-de-garantía)
         1. [Hipoteca](#hipoteca)
         2. [Anticresis](#anticresis) 
         3. [Prenda](#prenda)
@@ -45,11 +46,11 @@ Elementos:
 
 La comunidad está obligada a respetar esa facultad de ejercer sus derechos en relación al objeto.
 
->El derecho real es el poder jurídico, de estructura legal, que se ejerce directamente sobre su objeto, y que atribuye a su titular las facultades de persecución y preferencia
+> El derecho real es el poder jurídico, de estructura legal, que se ejerce directamente sobre su objeto, y que atribuye a su titular las facultades de persecución y preferencia
 
-- **Objeto** => La cosa => el total o una parte de ella.
-- **Estructura** => Establecidos sólo por la ley
-- **Convalidación** => Se convalida el DDRR adquirido a posteriori de su transmisión.
+- **Objeto** → La cosa → el total o una parte de ella.
+- **Estructura** → Establecidos solo por la ley
+- **Convalidación** → Se convalida el DDRR adquirido a posteriori de su transmisión.
 - **Derecho de persecución**: es el que le otorga al titular el derecho de perseguir judicialmente la cosa donde quiera que se encuentre, y sin importar las manos que la tengan.
 - **Derecho de preferencia**: es el que le permite al titular del derecho real satisfacer su prestación en primer lugar, con relación a cualquier otro titular del derecho.
 
@@ -168,6 +169,10 @@ Cada condómino, conjunta o individualmente, puede usar y gozar de la cosa comú
 
 #### Convenio de uso y goce. 
 Los condóminos pueden convenir el uso y goce alternado de la cosa común o que se ejercite de manera exclusiva y excluyente sobre determinadas partes materiales.
+
+> Existe condominio entre cónyuges cuando ambos son cotitulares de un bien, con prescindencia de la calidad de propia o ganancial de su porción indivisa. Dicho condominio está supeditado a las normas específicas del régimen patrimonial matrimonial.
+> 
+> [fuente](https://www.colescba.org.ar/portal/images/recursos/jornadas/Jornada-Notarial-Argentina/XVII-Parana-1978/conclusiones-tema-II.pdf)
 
 ### Propiedad Horizontal 
 Es el derecho real sobre un inmueble propio que otorga a su titular facultades de uso, goce y disposición material y jurídica que se ejercen sobre partes privativas y sobre partes comunes de un edificio. Las diversas partes del inmueble así como las facultades que sobre ellas se tienen son interdependientes y conforman un todo no escindible.
