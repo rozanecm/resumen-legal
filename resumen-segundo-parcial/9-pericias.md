@@ -25,16 +25,16 @@ Establece los procedimientos a seguir ante los Tribunales de Justicia Se basa en
 En caso de que una parte sea el Estado, vale el Derecho Administrativo.
 
 Árbitro: Juez, excepto en procesos extrajudiciales, que pueden ser ingenieros por ejemplo. Tiene:
-- Jurisdicción: Poder público por el cual el poder judicial hace cumplir la Ley mediante el uso de la fuerza pública.
-- Competencia: Es la forma en que se ejerce la Jurisdicción, dónde puede actuar. Se divide en base a tres criterios fundamentales: el territorial, la materia e la instancia del Proceso.
-- Imperio: Puede exigir la aplicación de la ley.
+- **_Jurisdicción:_** Poder público por el cual el poder judicial hace cumplir la Ley mediante el uso de la fuerza pública.
+- **_Competencia:_** Es la forma en que se ejerce la Jurisdicción, dónde puede actuar. Se divide en base a tres criterios fundamentales: el territorial, la materia e la instancia del Proceso.
+- **_Imperio:_** Puede exigir la aplicación de la ley.
 
 ### Etapas del proceso judicial
 
 1. Mediación (en muchos casos obligatoria)
 2. Demanda: el actor defiende su postura
 3. Respuesta a la demanda: el demandado defiende su postura
-4. Audiencias. (en ellas se hablan de las pruebas que van a proceder y cuales no y se abre a prueba)
+4. Audiencias. (en ellas se hablan de las pruebas que van a proceder y cuáles no y se abre a prueba)
 5. Periodo de prueba: se producen las medidas probatorias (aquí van las perícias).
 6. Alegatos: conclusiones de las partes.
 7. Sentencia o etapa decisoria.
@@ -44,10 +44,14 @@ En caso de que una parte sea el Estado, vale el Derecho Administrativo.
 FALTA ACÁ: LA DESCRIPCIÓN DE TODO EL PROCESO JUDICIAL!! 
 
 ## Peritos
-**Perito**: Es un auxiliar de la justicia y actúa para ayudar al juez en un tema que requiere conocimientos especiales. No representan a las partes y tienen la obligación de ser imparciales.
+**Perito**: Es un auxiliar de la justicia y actúa para ayudar al juez en un tema que requiere conocimientos especiales. No representan a las partes y tienen la obligación de ser imparciales. Per defecto la prueba pericial estará a cargo de **1 perito único** designado por el juez, salvo cuando la ley especial establezca un régimen distinto. En el juicio por nulidad de testamento, **el juez podrá nombrar de oficio 3 peritos** cuando por la importancia y complejidad del asunto lo considere conveniente (art. 458).
 
-**Puntos de perícia:** En una demanda se *pide*
+**Puntos de pericia:** En una demanda se *pide*
 una pericia, y se pide sobre qué debe expedirse el perito
+
+Antes de que el juez ejerza la facultad que le confiere el artículo 460, las partes de común acuerdo, podrán presentar UN (1) escrito proponiendo perito y puntos de pericia. Podrán, asimismo, designar consultores técnicos.
+
+A petición de parte o de oficio, el juez podrá requerir opinión a universidades, academias, corporaciones, institutos y entidades públicas o privadas de carácter científico o técnico, cuando el dictamen pericial requiriese operaciones o conocimientos de alta especialización.
 
 ### Tipos de peritos
 - Judicial (actúa en juicios) vs Extrajudicial (hace estudios fuera del juicio)
@@ -57,16 +61,16 @@ Al perito de parte/consultor técnico le paga la parte, ó lo define el juez al 
 
 Los peritos de oficio pueden ser:
 - Oficiales (cobran sueldo y trabajan para el Estado [son de gendarmería, policía, etc.])
-- Provenientes de sorteo (lista de anotados para ser peritos, contratados momentaneamente para 1 juicio. El juez define honorarios al momento de la sentencia.)
+- Provenientes de sorteo (lista de anotados para ser peritos, contratados momentáneamente para 1 juicio. El juez define honorarios al momento de la sentencia.)
 
 ### Cómo ser perito **REVER ESTO TB**
 1. Matricularse
 2. Inscribirse para ser perito de oficio
 3. Sorteo y notificación
 4. Aceptar el cargo de perito o no, si no se conoce el tema
-5. 10 días para realizar perícias
+5. 10 días para realizar pericias
 6. Pedir anticipo de gastos
-7. Fijar fecha de perícia
+7. Fijar fecha de pericia
 8. Pedir el expediente en préstamo
 9. Suspensión de plazos procesales
 10. Realizar la pericia (se cita a los peritos de parte en una oficina o se visita una empresa y hacés la pericia con ellos).

@@ -19,18 +19,18 @@
 - **Incumbencias:** Las funciones para las cuales capacita el título
   - Antes las definía la universidad (debido a la autonomía universitaria)
   - Ahora el Estado/la CONEAU define las incumbencias.
-- **Matriculación:** La matricula la emite el colegio. Hay colegios de cada ingeniería.
-  - En Argentina: COPITEC (Consejo Profesional de Ingeniería en Counicaciones, Electrónica y Computación)
-  - Matrícula: Abala que sos bueno y responsable y no te mandaste ninguna macana (no te la sacaron)
+- **Matriculación:** La matrícula la emite el colegio. Hay colegios de cada ingeniería.
+  - En Argentina: COPITEC (Consejo Profesional de Ingeniería en Comunicaciones, Electrónica y Computación)
+  - Matrícula: Avala que sos bueno y responsable y no te mandaste ninguna macana (no te la sacaron)
 
-## Ley de Ejercício profesional (Ing, Arq, agrimensores)
+## Ley de Ejercicio profesional (Ing, Arq, agrimensores)
 - Para ejercer la ing. hay que tener título y matrícula
 - Debe haber **consejos nacionales** que determinen y apliquen transgresiones y emitan matrículas. Sus funciones son:
   - Organizar y administrar matrículas
   - Aplicar sanciones
   - Estudiar el alcance de los títulos
   - Denunciar y estar en juicio
-  - Dictámenes sobre ejercício profesional
+  - Dictámenes sobre ejercicio profesional
 - Debe haber una **Junta central de los Consejos Profesionales**:
   - 1 sola en todo el país
   - Nuclea los consejos
@@ -55,8 +55,8 @@
   - Suspensión del ejercicio de la profesión
   - Cancelación de la matrícula
 - **Recurrencia**: Especifica ante qué organismos presentarlas según la falta (Junta Nacional o Cámara Nacional de Apelaciones)
-  - Recurso de reposición: ante el mismo organismo que dictó la resolución.
-  - Recurso de apelación: organismo superior al que dictó la resolución
+  - **_Recurso de reposición:_** ante el mismo organismo que dictó la resolución.
+  - **_Recurso de apelación:_** organismo superior al que dictó la resolución
 - **Ley de honorarios:**
   - Retribución por:
     - Trabajo 
