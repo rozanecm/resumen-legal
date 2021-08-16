@@ -176,6 +176,6 @@ Es cuando un acto jurídico viciado puede ser confirmado y tener validez. Esta c
 ### Actos ilícitos
 No permitido por la ley
 - **Delito**:Todo acto ilícito realizado **con dolo** que **produce daño**
-- **Cuasidelito**: Todo acto ilícito realizado **sin dolo** que **produce daño**
+- **Cuasidelito**: Todo acto ilícito realizado **sin dolo** que **produce daño**. Un ejemplo de cuasidelito es el atropello de una persona en la vía pública, el conductor no tiene intención de matar a esa persona, sin embargo, por su actuar negligente lo hace. Esta persona será acusada en juicio por cuasidelito de homicidio.
 - **Delito civil**: Delito **privado**, penado **patrimonialmente**, fallo por **analogía**.
-- **Delito penal**: Delito **público**, penado con **privacion de la libertad**, fallo **estrictamente** de acuerdo a la ley.
+- **Delito penal**: Delito **público**, penado con **privación de la libertad**, fallo **estrictamente** de acuerdo a la ley.

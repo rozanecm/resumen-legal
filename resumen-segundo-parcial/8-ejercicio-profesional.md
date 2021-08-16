@@ -78,7 +78,7 @@
     - *Para con su actuación en contratos:* Si dirige el cumplimiento de contratos entre su cliente y terceros, no puede actuar con parcialidad en perjuicio de esos terceros.
   - Las causas de ética se radicarán ante el Consejo Profesional correspondiente o la Junta si está inscripto en más de uno, tiene como consecuencia alguna sanción que puede aplicar un Consejo.
 
-- Título​ acredita:
+- Título acredita:
   - **Perfil:** conjunto de conocimientos y capacidades que el título
   - **Alcance:** actividades para las que es competente el profesional.
   - **Incumbencias:** actividades comprendidas en el alcance de interés público.

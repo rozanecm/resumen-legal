@@ -1,5 +1,5 @@
 # Marcas y designaciones
-La autoridad de aplicación de esta ley es el I.N.P.I. (Instituto nacional de la propiedad industrial)
+La autoridad de aplicación de esta ley es el I.N.P.I. (Instituto nacional de la propiedad industrial), dependiente del Ministerio de Desarrollo Productivo.
 
 ¿qué es una marca? Es todo signo novedoso y característico que distingue a un producto o servicio de otro.
 

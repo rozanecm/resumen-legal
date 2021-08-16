@@ -17,6 +17,14 @@
     - La Ley (sentencia o fallo es su aplicación)
   - Modernas
     - Abuso de derecho
+      > ARTICULO 10.- Abuso del derecho. El ejercicio regular de un derecho propio o el cumplimiento de una obligación legal no puede constituir como ilícito ningún acto.
+      > 
+      > La ley no ampara el ejercicio abusivo de los derechos. Se considera tal el que contraría los fines del ordenamiento jurídico o el que excede los límites impuestos por la buena fe, la moral y las buenas costumbres.
+      > 
+      > El juez debe ordenar lo necesario para evitar los efectos del ejercicio abusivo o de la situación jurídica abusiva y, si correspondiere, procurar la reposición al estado de hecho anterior y fijar una indemnización.
+      > ***
+      > EJEMPLO: Podría ser considerado abuso del derecho la actuación llevada a cabo por una Comunidad de Propietarios que ha permitido en el tiempo la realización de obras ilegales a una serieAbuso del derecho en el proceso civil de vecinos, y al cabo de los años, decide emprender acciones judiciales solo contra uno sólo de los propietarios infractores, permitiéndoles al resto continuar con su ilícita acción. Ese propietario demandado, podría alegar abuso del derecho por parte de la Comunidad, pues si bien a ésta le ampara el derecho a solicitar la reposición del inmueble a su estado anterior, su actuación después de tantos años y sólo dirigida contra ese propietario (tal vez porque no cae bien en la Comunidad) supone un abuso del derecho que sólo busca en el fondo dañar sus intereses sin buscar el beneficio de la Comunidad.
+
     - Enriquecimiento sin causa
     - Voluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador, concurso de belleza con premio, recompensa por búsqueda de un perro perdido).
 
@@ -56,12 +64,24 @@ La obligación da derecho al acreedor a:
     > Hay solidaridad en las obligaciones con pluralidad de sujetos y originadas en una causa única cuando, en razón del título constitutivo o de la ley, su cumplimiento total puede exigirse a cualquiera de los deudores, por cualquiera de los acreedores.
 - **_Concurrentes_**:
   > Obligaciones concurrentes son aquellas en las que varios deudores deben el mismo objeto en razón de causas diferentes.
+  > ***
+  > Un ejemplo aclarara el concepto: a da en comodato un libro a D y, ante un descuido de este, la cosa es robada por L; en el supuesto de que la cosa sea robada por negligencia del comodatario (D), el comodante (a) (único acreedor) podrá requerir la indemnización de daños (único objeto) al comodatario (D) o al ladrón (L) (diversidad de deudores), en virtud del contrato de comodato, al primero, y del hecho ilícito, al segundo (diversidad de causas independientes y distintas).
+  > 
+  > En las obligaciones concurrentes, el pago efectuado por uno de los deudores produce la extinción de la obligación a su cargo, pero no propaga sus efectos a las otras deudas. A pesar de ello, el acreedor no puede requerir el cobro a los demás obligados, por cuanto una vez satisfecho su crédito quedan sin causa las otras obligaciones concurrentes que estaban referidas a el; en el ejemplo anterior: si el comodante percibe del comodatario la indemnización del daño sufrido, no podrá reclamarla al ladrón de la cosa.
 - **_Disyuntivas_**:
   > Si la obligación debe ser cumplida por uno de varios sujetos, excepto estipulación en contrario, el acreedor elige cuál de ellos debe realizar el pago. Mientras el acreedor no demande a uno de los sujetos, cualquiera de ellos tiene derecho de pagar. El que paga no tiene derecho de exigir contribución o reembolso de los otros sujetos obligados.
+  > 
+  > ARTICULO 854.- Disyunción activa. Si la obligación debe ser cumplida a favor de uno de varios sujetos, excepto estipulación en contrario, el deudor elige a cuál de éstos realiza el pago. La demanda de uno de los acreedores al deudor no extingue el derecho de éste a pagar a cualquiera de ellos. El que recibe el pago no está obligado a participarlo con los demás.
+  > 
+  > ARTICULO 855.- Reglas aplicables. Se aplican, subsidiariamente, las reglas de las obligaciones simplemente mancomunadas.
 - **_Principales vs. accesorias_**: Las accesorias son contraídas para asegurar el cumplimiento de la principal. La principal es la razón de la existencia de las accesorias.
   > Obligaciones **principales** son aquellas cuya existencia, régimen jurídico, eficacia y desarrollo funcional son autónomos e independientes de cualquier otro vínculo obligacional.
   > 
   > Los derechos y obligaciones son **accesorios** a una obligación principal cuando dependen de ella en cualquiera de los aspectos precedentemente indicados, o cuando resultan esenciales para satisfacer el interés del acreedor.
+  > ***
+  > Se cita como ejemplo de obligación accesoria en relación con el objeto de la principal, la cláusula penal que se establece para asegurar el cumplimiento de aquella.
+  > 
+  > Se considera obligación accesoria en relación con las personas obligadas principalmente, la contraída por garantes o fiadores: por ejemplo, D se obliga a entregar a a un televisor, y e se constituye en fiador de tal obligación, es decir, que asume el compromiso de abonar la deuda en caso de que D no lo hiciere.
 
 ## Extinción de las obligaciones
 
@@ -99,17 +119,18 @@ Existen dos causales que no generan imputabilidad:
 Hay contrato cuando varias personas se ponen de acuerdo sobre una declaración de voluntad común, destinada a reglar sus derechos.
 ## Elementos de un contrato
 1. Esenciales: aquellos que resultan indispensables para la formación de todo contrato.
-  - **_Capacidad_**: es la facultad de adquirir derechos y contraer obligaciones. Puede ser de hecho o de derecho.
-  - **_Consentimiento_**: es necesario que las partes contratantes coincidan en el fin y el contenido del acto a realizar y manifiesten su voluntad de adhesión al proyecto mediante alguno de los medios provistos por la ley. El consentimiento debe darse sobre todos los puntos del contrato. Aceptada la propuesta, cualquier modificación implica la gestión de un nuevo contrato. No necesariamente es explícito. La exteriorización puede no ser simultánea. El momento en el cual se produce la exteriorización dio lugar a varias teorías:
-    - **_de la declaración_**: la sola declaración de una de las partes es suficiente.
-    - **_de la información_**: ambas partes están informadas de la aceptación de la otra.
-    - **_de la emisión_**: se perfecciona el contrato desde que se manda la aceptación.
-    - **_de la recepción_**: el aceptante puede retractarse hasta que la aceptación llegue a poder del proponente.
-  - **_Objeto_**: debe ser lícito y de apreciación pecuniaria.
-  - **_Causa_**: puede confundirse con el objeto. Se considera causa, la causa final o finalidad del contrato.
-  - **_Forma_**: es requisito esencial para cierto tipo de contratos. Son los recaudos que la ley exige para darle validez o para poder probar la expresión de la voluntad de las partes. También se incluyen en esta categoría aquellas condiciones particulares de cada tipo de contrato (como el precio en el contrato de obra pública).
+      - **_Capacidad_**: es la facultad de adquirir derechos y contraer obligaciones. Puede ser de hecho o de derecho.
+      - **_Consentimiento_**: es necesario que las partes contratantes coincidan en el fin y el contenido del acto a realizar y manifiesten su voluntad de adhesión al proyecto mediante alguno de los medios provistos por la ley. El consentimiento debe darse sobre todos los puntos del contrato. Aceptada la propuesta, cualquier modificación implica la gestión de un nuevo contrato. No necesariamente es explícito. La exteriorización puede no ser simultánea. El momento en el cual se produce la exteriorización dio lugar a varias teorías:
+        - **_de la declaración_**: la sola declaración de una de las partes es suficiente.
+        - **_de la información_**: ambas partes están informadas de la aceptación de la otra.
+        - **_de la emisión_**: se perfecciona el contrato desde que se manda la aceptación.
+        - **_de la recepción_**: el aceptante puede retractarse hasta que la aceptación llegue a poder del proponente.
+      - **_Objeto_**: debe ser lícito y de apreciación pecuniaria.
+      - **_Causa_**: puede confundirse con el objeto. Se considera causa, la causa final o finalidad del contrato.
+      - **_Forma_**: es requisito esencial para cierto tipo de contratos. Son los recaudos que la ley exige para darle validez o para poder probar la expresión de la voluntad de las partes. También se incluyen en esta categoría aquellas condiciones particulares de cada tipo de contrato (como el precio en el contrato de obra pública).
 2. Naturales: son considerados implícitos por la ley.
-3. Accidentales: aquellos establecidos mediante declaración expresa, sin opción de la ley.
+   > Son aquellas consecuencias que se siguen del negocio, aún ante el silencio de las partes; así, la gratuidad es un elemento natural de la donación; las garantías de evicción y por vicios redhibitorios son un elemento natural de los contratos a título oneroso. 
+3. Accidentales: aquellos establecidos mediante declaración expresa, sin opción de la ley; por ejemplo la condición, plazo y el cargo.
 
 ## Clasificación de los contratos
 1. **_Unilaterales o bilaterales_** (Art. 966 CCyC): según si una sola de las partes se obliga hacia la otra sin que esta le quede obligada (existencia o no de obligación recíproca).
@@ -125,6 +146,14 @@ gratuito (art. 1525 CCyC) y el comodato (art. 1533 CCyC).
    > La mayor parte de los contratos que se celebran a diario son onerosos. El contrato es oneroso si impone sacrificios y ventajas recíprocas, y es gratuito cuando establece sacrificio para uno y ventaja para otro.
    > 
    > El factor determinante será el interés. Pues, si solo una de las partes lo tiene al celebrar el contrato, ese vínculo negocial deberá ser clasificado como gratuito; y si lo tienen todas, como oneroso. Son onerosos los contratos bilaterales, pero también pueden serlo otros, como la donación remuneratoria, de carácter unilateral.
+   > ***
+   > Es la que efectúa el donante cuando pretende recompensar al donatario unos servicios prestados, sin que éstos fueran remunerables y sin que, por tanto, estuviera el donante jurídicamente obligado a retribuirlos. La causa de esta donación, pues, conlleva la imposibilidad de revocarla por ingratitud del donatario posteriormente manifestada. La razón de tal irrevocabilidad radica en que el donante está cumpliendo con un deber de conciencia u obligación natural. 
+   > 
+   > Código civil, artículo 619. 
+   > 
+   > El concepto de donación remuneratoria ha dado lugar en la doctrina extranjera a largas discusiones. Algunos códigos (Ver Gr., El argentino) les han puesto termino en derecho positivo con normas que precisan la idea y concluyen con las dudas. Para ellos, las donaciones remuneratorias son aquellas que se hacen en recompensa de servicios prestados al donante por el donatario, estimables en dinero y por las cuales podía este exigir el pago judicialmente al donante.
+   > 
+   > [fuente](http://www.enciclopedia-juridica.com/d/donaci%C3%B3n-remuneratoria/donaci%C3%B3n-remuneratoria.htm)
 3. **_Conmutativos o aleatorios_** (Art. 968 CCyC): según si la prestación que cada una de las partes recibe, depende o no de un hecho futuro e incierto.
    > Dentro de la categoría de los contratos a título oneroso, es posible diferenciar los contratos **conmutativos**, aquellos en los que las obligaciones a cargo de cada una de las partes pueden ser determinadas con cierto grado de certeza cualitativa y cuantitativa al tiempo de la celebración, de los **aleatorios**, que son aquellos en los que las pérdidas o las ventajas para una o para todas las partes involucradas, dependen de un acontecimiento futuro e incierto.
    >
@@ -145,15 +174,10 @@ Los efectos de los contratos se extienden activa y pasivamente a los herederos y
 Los contratos no pueden perjudicar a terceros.
 
 Los contratos mantienen su validez mientras no se extingan las obligaciones que ellos crean.
-### Excepción de incumplimiento
-Es una cláusula accesoria.
 
-Se presentan en los contratos bilaterales. Una de las partes no podrá demandar su cumplimiento si no probase haberlo ella cumplido u ofreciese cumplirlo, o que su obligación es a plazo. Se da cuando las prestaciones están interrelacionadas y son simultáneas. Debe referirse a la obligación principal y no a las accesorias.
-### Señal o arras (seña)
-Es una cláusula accesoria.
-
-Es un elemento accesorio de los contratos. Se da para garantizar el cumplimiento de las obligaciones emergentes de un contrato. Es muy importante en materia comercial, ya que la entrega de la señal tiene carácter confirmatorio.
 ### Cláusulas accesorias
+- **_Excepción de incumplimiento:_** Es una cláusula accesoria. Se presentan en los contratos bilaterales. Una de las partes no podrá demandar su cumplimiento si no probase haberlo ella cumplido u ofreciese cumplirlo, o que su obligación es a plazo. Se da cuando las prestaciones están interrelacionadas y son simultáneas. Debe referirse a la obligación principal y no a las accesorias.
+- **_Señal o arras (seña):_** Es una cláusula accesoria. Es un elemento accesorio de los contratos. Se da para garantizar el cumplimiento de las obligaciones emergentes de un contrato. Es muy importante en materia comercial, ya que la entrega de la señal tiene carácter confirmatorio.
 - **_Pacto comisorio explicito_**: Es una cláusula mediante la cual cada una de las partes se reserva la facultad de no
 cumplir el contrato si la otra parte no lo cumpliese. El contrato solo puede resolverse por la
 parte no culpada. Este pacto es prohibido en el contrato de prenda.

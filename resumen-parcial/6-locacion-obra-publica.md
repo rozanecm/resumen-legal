@@ -32,18 +32,21 @@
 # Locación de obra pública
 Obra Pública nacional es toda construcción, trabajo o servicio de industria que se ejecute con fondos del Tesoro Nacional, a excepción de los efectuados con subsidios y las construcciones militares.
 
+Comitente: Parte contratante del contrato de comisión mercantil que encarga un acto o gestión de comercio y debe abonar al comisionista el precio pactado como cuota.
+
 ## Elementos de la obra pública
-- PROYECTO: Conjunto de elementos grafométricos que definen la obra. Tiene planos, memoria descriptiva, y cómputos numéricos. Si se trata de una obra inmaterial (como un proyecto), debe haber un anteproyecto.
-- PRESUPUESTO: Valoración económica de la obra. En caso de locación de obra material, aparece una planilla de precios unitarios y condiciones comerciales.
-- PRESUPUESTO OFICIAL: Valor que el ente administrativo estima que va a llevar esa obra.
-- PLIEGO DE BASES Y CONDICIONES: De licitación o concurso. Da origen a la obra. Puede estar compuesto de:
+- **_PROYECTO:_** Conjunto de elementos grafométricos que definen la obra. Tiene planos, memoria descriptiva, y cómputos numéricos. Si se trata de una obra inmaterial (como un proyecto), debe haber un anteproyecto.
+- **_PRESUPUESTO:_** Valoración económica de la obra. En caso de locación de obra material, aparece una planilla de precios unitarios y condiciones comerciales.
+- **_PRESUPUESTO OFICIAL:_** Valor que el ente administrativo estima que va a llevar esa obra.
+- **_PLIEGO DE BASES Y CONDICIONES:_** De licitación o concurso. Da origen a la obra. Puede estar compuesto de:
   - Cláusulas generales, cláusulas particulares, especificaciones técnicas, planos, memoria descriptiva, folletos. También puede contener el proyecto en sí mismo.
     - Cláusulas Generales: Relaciones técnico - jurídicas que enmarcan el tipo de obra.
     - Cláusulas Especiales o Particulares: Relaciones técnico - jurídicas en relación con la obra que hacemos.
-- CRÉDITO LEGAL: Significa que la obra está presupuestada, o sea, que existe una partida presupuestaria que la avale.
+ - **_CRÉDITO LEGAL:_** Significa que la obra está presupuestada, o sea, que existe una partida presupuestaria que la avale.
 
 La documentación de la obra y del oferente debe ser de acceso público.
-Registro Nacional de Obra Pública: Se encarga de determinar las capacidades de las empresas a través de las obras que las empresas realizan o han realizado.
+
+**_Registro Nacional de Obra Pública_**: Se encarga de determinar las capacidades de las empresas a través de las obras que las empresas realizan o han realizado.
 
 ## ¿Qué tipo de contrato es?
 - Bilateral (Hay dos partes)
