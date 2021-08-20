@@ -20,7 +20,7 @@ No implica la **confidencialidad** del mensaje.
 
 - Se reconoce la eficacia jurídica de la firma electrónica
 - **Firma electrónica:** esquema de encriptación asimétrica. No tiene valor probatorio: debe probarse que es válida (se presume que es inválida).
-- **Firma digital:** firma electrónica reconocida por la justícia. Tiene valor probatorio: debe probarse que es inválida (se presume válida).
+- **Firma digital:** firma electrónica reconocida por la justicia. Tiene valor probatorio: debe probarse que es inválida (se presume válida).
 
 La Jefatura del gabinete de ministros es un ente licenciante, da **licencias** a **certificadores licenciados**, que tiene en un respositorio confiable las claves públicas. Presta servícios de firma digital, es como un *escribano digital*.
 

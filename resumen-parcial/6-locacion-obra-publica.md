@@ -89,9 +89,15 @@ La justicia presume que el Estado tiene razón, por lo tanto aquí tiene que dem
   - **Relativo**: Admite modificaciones por imprevistos o adicionales.
 
 ## Garantías
-- **De oferta** (Se constituye junto con la presentación de la Oferta. Generalmente se lo hace a través de “Cauciones”.) (1% del monto ofertado) OBJETO: MANTENIMIENTO DE LA OFERTA.
-- **Contractual** (Se constituye al momento de firmar la CONTRATA) (5% monto adjudicado) OBJETO: RESPONDER ANTE EVENTUALES INCUMPLIMIENTOS CONTRACTUALES.
-- **Fondo de Garantía o Reparo**: (Se constituye mediante un porcentaje (5%) del monto de cada certificado) OBJETO: REPARACIÓN DE VICIOS OCULTOS. Cuando el monto es muy importante, el Contratista puede optar por un SEGURO DE CAUCIÓN BANCARIO y cobrar el 100% de lo acordado (en vez del 95% que implica la formación del Fondo de Reparos). Si luego aparece un problema, el Comitente ejecuta el seguro y hace las reparaciones. El banco reclamará al Contratista.
+- **De oferta** (Se constituye junto con la presentación de la Oferta. Generalmente se lo hace a través de “Cauciones”.) (1% del monto ofertado)
+    
+    OBJETO: MANTENIMIENTO DE LA OFERTA.
+- **Contractual** (Se constituye al momento de firmar la CONTRATA) (5% monto adjudicado)
+    
+    OBJETO: RESPONDER ANTE EVENTUALES INCUMPLIMIENTOS CONTRACTUALES.
+- **Fondo de Garantía o Reparo**: (Se constituye mediante un porcentaje (5%) del monto de cada certificado)
+  
+    OBJETO: REPARACIÓN DE VICIOS OCULTOS. Cuando el monto es muy importante, el Contratista puede optar por un SEGURO DE CAUCIÓN BANCARIO y cobrar el 100% de lo acordado (en vez del 95% que implica la formación del Fondo de Reparos). Si luego aparece un problema, el Comitente ejecuta el seguro y hace las reparaciones. El banco reclamará al Contratista.
 
 ## Responsabilidad precontractual
 No se reconoce responsabilidad por todos los gastos en estudios, planos y demás gastos anteriores incurridos por el contratista. Pero si la adjudicación es arbitraria se puede reclamar daños y perjuicios.

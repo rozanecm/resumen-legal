@@ -15,8 +15,10 @@
     - Delitos
     - Cuasidelitos
     - La Ley (sentencia o fallo es su aplicación)
-  - Modernas
-    - Abuso de derecho
+  - Modernas (EVA)
+    - **E**nriquecimiento sin causa
+    - **V**oluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador, concurso de belleza con premio, recompensa por búsqueda de un perro perdido, hoja con promociones de un supermercado).
+    - **A**buso de derecho
       > ARTICULO 10.- Abuso del derecho. El ejercicio regular de un derecho propio o el cumplimiento de una obligación legal no puede constituir como ilícito ningún acto.
       > 
       > La ley no ampara el ejercicio abusivo de los derechos. Se considera tal el que contraría los fines del ordenamiento jurídico o el que excede los límites impuestos por la buena fe, la moral y las buenas costumbres.
@@ -24,9 +26,7 @@
       > El juez debe ordenar lo necesario para evitar los efectos del ejercicio abusivo o de la situación jurídica abusiva y, si correspondiere, procurar la reposición al estado de hecho anterior y fijar una indemnización.
       > ***
       > EJEMPLO: Podría ser considerado abuso del derecho la actuación llevada a cabo por una Comunidad de Propietarios que ha permitido en el tiempo la realización de obras ilegales a una serieAbuso del derecho en el proceso civil de vecinos, y al cabo de los años, decide emprender acciones judiciales solo contra uno sólo de los propietarios infractores, permitiéndoles al resto continuar con su ilícita acción. Ese propietario demandado, podría alegar abuso del derecho por parte de la Comunidad, pues si bien a ésta le ampara el derecho a solicitar la reposición del inmueble a su estado anterior, su actuación después de tantos años y sólo dirigida contra ese propietario (tal vez porque no cae bien en la Comunidad) supone un abuso del derecho que sólo busca en el fondo dañar sus intereses sin buscar el beneficio de la Comunidad.
-
-    - Enriquecimiento sin causa
-    - Voluntad unilateral: una parte se obliga sin intervención o requerimiento de la otra. (Ejemplo: billetes al portador, concurso de belleza con premio, recompensa por búsqueda de un perro perdido).
+      
 
 ## Requisitos:
 - debe ser material y jurídicamente posible
@@ -178,18 +178,7 @@ Los contratos mantienen su validez mientras no se extingan las obligaciones que 
 ### Cláusulas accesorias
 - **_Excepción de incumplimiento:_** Es una cláusula accesoria. Se presentan en los contratos bilaterales. Una de las partes no podrá demandar su cumplimiento si no probase haberlo ella cumplido u ofreciese cumplirlo, o que su obligación es a plazo. Se da cuando las prestaciones están interrelacionadas y son simultáneas. Debe referirse a la obligación principal y no a las accesorias.
 - **_Señal o arras (seña):_** Es una cláusula accesoria. Es un elemento accesorio de los contratos. Se da para garantizar el cumplimiento de las obligaciones emergentes de un contrato. Es muy importante en materia comercial, ya que la entrega de la señal tiene carácter confirmatorio.
-- **_Pacto comisorio explicito_**: Es una cláusula mediante la cual cada una de las partes se reserva la facultad de no
-cumplir el contrato si la otra parte no lo cumpliese. El contrato solo puede resolverse por la
-parte no culpada. Este pacto es prohibido en el contrato de prenda.
-En todo contrato está implícito un pacto comisorio tácito, que salvo convención contraria
-permite a una parte resolver el contrato ante el incumplimiento de la otra. No ejecutada la
-prestación, el acreedor podrá requerir al incumplidor el cumplimiento de su obligación en un
-plazo no menor a quince días, salvo que los usos o un pacto expreso establecieran uno
-menor, con los daños y perjuicios derivados de la demora. Transcurrido el plazo sin que la
-prestación haya sido cumplida, quedarán resueltas las obligaciones emergentes del contrato
-con derecho para el acreedor al resarcimiento de los daños y perjuicios. El acreedor puede
-optar por el cumplimiento de la obligación o la resolución del contrato. El incumplimiento
-debe ser sobre la obligación principal.
+- **_Pacto comisorio explicito_**: Es una cláusula mediante la cual cada una de las partes se reserva la facultad de no cumplir el contrato si la otra parte no lo cumpliese. El contrato solo puede resolverse por la parte no culpada. Este pacto es prohibido en el contrato de prenda. En todo contrato está implícito un pacto comisorio tácito, que salvo convención contraria permite a una parte resolver el contrato ante el incumplimiento de la otra. No ejecutada la prestación, el acreedor podrá requerir al incumplidor el cumplimiento de su obligación en un plazo no menor a quince días, salvo que los usos o un pacto expreso establecieran uno menor, con los daños y perjuicios derivados de la demora. Transcurrido el plazo sin que la prestación haya sido cumplida, quedarán resueltas las obligaciones emergentes del contrato con derecho para el acreedor al resarcimiento de los daños y perjuicios. El acreedor puede optar por el cumplimiento de la obligación o la resolución del contrato. El incumplimiento debe ser sobre la obligación principal.
 
     Existen dos formas de ejecución del pacto comisorio cuando es tácito:
     1. **_Extrajudicialmente_**: previa intimación de cumplimiento en un plazo no inferior a quince días

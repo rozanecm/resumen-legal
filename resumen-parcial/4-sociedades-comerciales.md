@@ -8,7 +8,7 @@
   - Iglesia católica
 - Privados
   - Sociedades
-  - Asociaciones civiles
+  - Asociaciones civiles ([Ley 24.057](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/456/norma.htm))
   - Fundaciones
   - Iglesias
   - Comunidades o entidades religiosas
@@ -67,9 +67,10 @@ Según el ORDEN en que deben responder:
   - Sociedad Colectiva
   - Sociedad en Comandita
   - Sociedad de Capital e Industria
-  - Sociedad Cooperativa (Ley 20.337)
+  - Sociedad Cooperativa ([Ley 20.337](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18462/texact.htm))
 
 ### Sociedad colectiva
+- Los socios contraen responsabilidad subsidiaria, ilimitada y solidaria, por las obligaciones sociales.
 - Generalmente familias
 - Todos los socios intervienen en la gestión de la sociedad (todos deciden y todos se cagan a patadas, bardo)
 - Solo adecuada para pocos socios
@@ -142,6 +143,6 @@ La reducción a uno del número de socios no es causal de disolución. Se transf
 |Valor de las partes|puede ser desigual|igual|igual|igual|igual|
 |votos|Cada socio 1 voto (no importan aportes).|1 parte=1 voto|ns/nc|ns/nc|1 parte=1 voto|
 |El aumento o disminución del capital social, requieren reforma estatutaria?|si|si|si|no|si|
-|Capital social||Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Las acciones en circulación corresponden al capital, parado por los accionistas.<br>Se puede emitir acciones privilegiadas, acciones de goce o industrias, acciones con dividendo preferencia y sin derecho a voto, y bonos obligatoria mente convertibles en acciones||
+|Capital social||Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Las acciones en circulación corresponden al capital, parado por los accionistas.<br>Se puede emitir acciones privilegiadas, acciones de goce o industrias, acciones con dividendo preferencia y sin derecho a voto, y bonos obligatoriamente convertibles en acciones||
 |miembros|Mínimo dos socios y no hay máximo.|Mínimo un socio gestor y 1 comanditario. No hay límite máximo|Mínimo un socio gestor y comanditarios y no hay limite máximo.|Mínimo 2 accionistas y no hay limite máximo.|Mínimo 2, máximo 50.|
 |responsabilidad|Solidaria e ilimitada la de los socios gestores.|Solidaria e ilimitada la de los socios gestores.<br>Limitada, la de los socios comanditarios.|Solidaria e ilimitada la de los socios gestores.<br>Limitada, la de los socios comanditarios.|Limitada.|Limitada.|

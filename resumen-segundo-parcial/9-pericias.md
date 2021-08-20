@@ -82,5 +82,5 @@ Los peritos de oficio pueden ser:
 - Estar recibido.
 - Tener el título.
 - Matricularse.
-- 5 años de ejercício profesional desde la matriculación.
+- 5 años de ejercicio profesional desde la matriculación.
 - Inscribirse en un consejo profesional.

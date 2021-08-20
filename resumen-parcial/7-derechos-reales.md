@@ -129,7 +129,7 @@ El dominio es el derecho real en virtud del cual **una cosa se encuentra sometid
 - **Perpetuidad**: No tiene límite en el tiempo y subsiste con independencia de su ejercicio.
 - **Exclusividad**: El dominio no puede tener más de un titular
 - **Facultad de exclusión/Excluyente**: El dominio es **excluyente**. El dueño puede excluir a extraños del uso, goce o disposición de la cosa, remover por propia autoridad los objetos puestos en ella, y encerrar sus inmuebles con muros, cercos o fosos, sujetándose a las normas locales
-- **Extensión**:  El dominio de una cosa comprende los objetos que forman un todo con ella. Se extiende al *subsuelo* y al *espacio aéreo*, en la medida que se puedan aprovechar. Las construcciones, siembras, plantaciones pertenecen el dueño.
+- **Extensión**: El dominio de una cosa comprende los objetos que forman un todo con ella. Se extiende al *subsuelo* y al *espacio aéreo*, en la medida que se puedan aprovechar. Las construcciones, siembras, plantaciones pertenecen el dueño.
 
 #### Modos especiales de adquisición del dominio
 - Apropiación (no tenía dueño).
@@ -216,8 +216,6 @@ Usufructo es el derecho real de usar, gozar y disponer jurídicamente de un bien
 Usufructo limitado en la extensión y/o duración.
 
 > El uso: puede constituirse solo a persona humana (art.2154 CCC) (el usufructo también a personas jurídicas). El usuario no puede constituir derechos reales sobre la cosa recibida. El uso es ejecutable solamente por los frutos que produce, cuando excedan las necesidades del usuario y su familia; o sea es embargable el excedente de frutos necesarios para el usuario y su familia.
-> 
-> El uso es ejecutable solamente por los frutos que produce, cuando excedan las necesidades del usuario y su familia; o sea es embargable el excedente de frutos necesarios para el usuario y su familia.
 > 
 > [fuente](https://aldiaargentina.microjuris.com/2018/09/20/alternativas-al-usufructo/)
 

@@ -49,7 +49,7 @@ Requisitos básicos
 [3] **_APLICACIÓN INDUSTRIAL:_** Para ser patentada una invención debe ser utilizada con un fin industrial o comercial. Una invención no puede ser un fenómeno meramente teórico, debe ser útil y proporcionar un beneficio práctico.
 
 [4] **_DIVULGACIÓN CLARA Y COMPLETA:_**
-- Divulgada de manera tal que la invención pueda ser reproducida por un persona con conocimientos en el ámbito técnico específico.
+- Divulgada de manera tal que la invención pueda ser reproducida por una persona con conocimientos en el ámbito técnico específico.
 - Se exige la “mejor manera” de ejecutar la invención.
 - En caso de patentes de microorganismos, se requiere que una muestra sea provista en una institución depositaria reconocida.
 ## No se consideran invenciones: (Art. 6)

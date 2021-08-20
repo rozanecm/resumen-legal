@@ -62,7 +62,7 @@
     - Trabajo 
     - **Responsabilidad**
   - Define aranceles de honorarios, establece un mínimo que debe cobrar el profesional por el trabajo. Divide en proyecto y dirección de obra, y establece porcentaje de trabajo y  mínimos (2 personas que hace 50% cobran más que una que hace el 100%).
-  - No está vigente sino que se usa como referencia en arquitectura.
+  - No está vigente, sino que se usa como referencia en arquitectura.
   - Funciones del Profesional
     - Proyectista
     - Director de obra
