@@ -187,3 +187,6 @@ Jefe del gabinete de ministros: +8M.
 - Comunicar firmas habituales
 ### Contratación directa
 Invitación a 3 proveedores.
+
+***
+![](res/Legal-Licitaciones.png)

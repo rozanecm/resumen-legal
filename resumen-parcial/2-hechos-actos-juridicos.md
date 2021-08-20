@@ -179,3 +179,6 @@ No permitido por la ley
 - **Cuasidelito**: Todo acto ilícito realizado **sin dolo** que **produce daño**. Un ejemplo de cuasidelito es el atropello de una persona en la vía pública, el conductor no tiene intención de matar a esa persona, sin embargo, por su actuar negligente lo hace. Esta persona será acusada en juicio por cuasidelito de homicidio.
 - **Delito civil**: Delito **privado**, penado **patrimonialmente**, fallo por **analogía**.
 - **Delito penal**: Delito **público**, penado con **privación de la libertad**, fallo **estrictamente** de acuerdo a la ley.
+
+***
+![](res/Legal-Hechos%20y%20actos%20juridicos.png)

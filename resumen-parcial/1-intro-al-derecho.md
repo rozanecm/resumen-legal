@@ -68,3 +68,6 @@ Por la vía de los hechos, sin embargo, constituye una fuerza de convicción par
 ### Jurisprudencia
 Las sentencias anteriores de los tribunales.
 Se entiende por jurisprudencia a la doctrina establecida por los órganos judiciales del Estado (por lo general, el Tribunal Supremo o Tribunales Superiores de Justicia) que se repite en más de una resolución. Esto significa que para conocer el contenido completo de las normas vigentes hay que considerar cómo han sido aplicadas en el pasado. En otras palabras, la jurisprudencia es el entendimiento de las normas jurídicas basado en las sentencias que han resuelto casos basándose en esas normas.
+
+***
+![](res/Legal-Intro%20al%20derecho.png)

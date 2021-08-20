@@ -191,3 +191,7 @@ considere excesivamente elevado el monto pactado.
 
     Resarce por daños y perjuicios a una ejecución tardía.
 - **_Cláusula Arbitral_**: Se establece la vía arbitral para soluciones de divergencias en la interpretación del contrato
+
+***
+![](res/Legal-Obligaciones.png)
+![](res/Legal-Contratos.png)

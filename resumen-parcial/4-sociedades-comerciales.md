@@ -146,3 +146,6 @@ La reducción a uno del número de socios no es causal de disolución. Se transf
 |Capital social||Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Se integra con los aportes de capital de los socios comanditarios y de los colectivos, si estos aportes existen.|Las acciones en circulación corresponden al capital, parado por los accionistas.<br>Se puede emitir acciones privilegiadas, acciones de goce o industrias, acciones con dividendo preferencia y sin derecho a voto, y bonos obligatoriamente convertibles en acciones||
 |miembros|Mínimo dos socios y no hay máximo.|Mínimo un socio gestor y 1 comanditario. No hay límite máximo|Mínimo un socio gestor y comanditarios y no hay limite máximo.|Mínimo 2 accionistas y no hay limite máximo.|Mínimo 2, máximo 50.|
 |responsabilidad|Solidaria e ilimitada la de los socios gestores.|Solidaria e ilimitada la de los socios gestores.<br>Limitada, la de los socios comanditarios.|Solidaria e ilimitada la de los socios gestores.<br>Limitada, la de los socios comanditarios.|Limitada.|Limitada.|
+
+***
+![](res/Legal-Sociedades.png)
