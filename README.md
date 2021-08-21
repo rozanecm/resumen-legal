@@ -9,6 +9,9 @@ Puede ser que en tu cuatrimestre los temas se organicen diferente, así que pod�
 
 Éxitos!
 
+# Actualización 2021
+Bastantes de las clases se encuentran pasadas en limpio de forma más ordenada que las ppt en [este link](https://docs.google.com/document/d/1bpC1cb2sSyGsnCV-P3bI8ILVTp1WXNGQFLWmBrOSLmo/edit#heading=h.gej253wh1q1x).
+
 # Índice
 - Primera parte
     1. [Introducción al Derecho](./resumen-parcial/1-intro-al-derecho.md)
